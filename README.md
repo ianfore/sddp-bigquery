@@ -28,6 +28,7 @@ create_dbgap_table.py -w ~/ncbi/dbGaP-14565/files/gecco/ -p nci-gecco -d GECCO_C
 2.	Create and load tables for the gecco subject phenotype data only
 
 create_dbgap_table.py -w ~/ncbi/dbGaP-14565/files/gecco/ -p nci-gecco -d GECCO_CRC_Susceptibility -t Subject_Phenotypes
+
 Separate tables for each consent group will be created
 
 ### Setup
