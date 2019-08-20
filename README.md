@@ -34,8 +34,9 @@ Separate tables for each consent group will be created
 ### Setup
 The working directory should be prepopulated with the *.txt and *.data_dict.xml files downloaded by prefetch, decrypted and unzipped.
 
-GOOGLE_APPLICATION_CREDENTIALS should be set as described here.
-https://cloud.google.com/docs/authentication/getting-started
+Authentication should be set as described here.
+https://cloud.google.com/bigquery/docs/reference/libraries
+
 
 
 To keep the correspondence between the files and the datasets and tables clear the name of the dataset is the same as the component of the .txt file names that represents the project. 
