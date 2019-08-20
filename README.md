@@ -22,9 +22,11 @@ create_dbgap_table.py -w workingDirectory -p GCPProject -d BiqQueryDataset -t Ta
 ### Examples
 
 1.	Create tables and load all the files for the gecco project (phs-001554)
+
 create_dbgap_table.py -w ~/ncbi/dbGaP-14565/files/gecco/ -p nci-gecco -d GECCO_CRC_Susceptibility
 
 2.	Create and load tables for the gecco subject phenotype data only
+
 create_dbgap_table.py -w ~/ncbi/dbGaP-14565/files/gecco/ -p nci-gecco -d GECCO_CRC_Susceptibility -t Subject_Phenotypes
 Separate tables for each consent group will be created
 
