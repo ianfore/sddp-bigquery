@@ -1,0 +1,7 @@
+sv_id	s_name	bq_d_name
+phs000179.v6	COPDGene	COPDGene
+phs000209.v13	MESA	MESA
+phs000296.v5	ESP_LungGO_COPDGene	ESP_LungGO_COPDGene
+phs001437.v1	PPTC	PPTC
+phs001554.v1	GECCO_CRC_Susceptibility	GECCO_CRC_Susceptibility
+phs001611.v1	Organoid_Profiling_PC	Organoid_Profiling_PC

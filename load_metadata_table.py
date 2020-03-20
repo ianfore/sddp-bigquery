@@ -18,9 +18,20 @@ def usage():
 def main(argv):
 	workdir = ''
 	project = ''
-	dataset = ''
+	dataset = 'metadata'
 	table = '*'
 	single_table = True
+#	workdir = '/Users/forei/ncbi/dbGaP-11218/files/'
+	project = 'isbcgc-216220'
+#	dataset = 'MESA'
+
+#	workdir = '/Users/forei/ncbi/dbGaP-11218/files/MESA_ESP_HeartGO/'
+#	dataset = 'MESA_ESP_HeartGO'
+#	table = 'Subject_Phenotypes'
+
+# 	workdir = '/Users/forei/ncbi/dbGaP-14565/files/'
+# 	project = 'isbcgc-216220'
+# 	dataset = 'GECCO_CRC_Susceptibility'
 
 	try:
 		opts, args = getopt.getopt(argv, "hw:p:d:t:", ["help", "workdir=", "project=", "dataset=", "table="])
@@ -42,30 +53,14 @@ def main(argv):
 	        
 	dataset_id = project + "." + dataset
 	
-	file_list = glob.glob(workdir + '*' + dataset + '_' + table + '*.txt')
+	file_list = glob.glob(workdir + '*.txt')
 	for filepath in file_list:
 		print ('\n'+filepath)
 		# break out parts of the filename
-		p = re.compile('.*\.'+dataset+'_(.*)\.(.*).txt')
+		p = re.compile('(.*).txt')
 		m = p.match(filepath)
-		tab = m.group(1)
-		consent = m.group(2)
-		print (tab, consent)
+		tableName = m.group(1)
 		
-		# find the data dictionary for this file
-		dictExp = workdir + '*' + dataset + '*' + tab + '.data_dict.xml'
-		print (dictExp)
-		dict_list = glob.glob(dictExp)
-		schemafilename = dict_list[0]
-		print (schemafilename)
-		
-		# set up table name to use in BigQuery	
-		if single_table:
-		    tableName = tab
-		else:
-		    tableName = tab+'_'+consent
-		# fix for characters that can't be used in a table name
-		tableName = tableName.replace("-", "_")
 		table_id = dataset_id + "." + tableName
 		
 		# read the data dictionary

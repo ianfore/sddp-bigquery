@@ -1,0 +1,24 @@
+vocab_id	value_id	valueString
+2100	EA	European-American
+2090	1	Caucasian
+2090	2	African American
+2090	3	Asian
+2090	4	Pacific Islander
+2090	5	American Indian / Alaska
+2090	6	More than one race
+2090	7	Other
+2080	(null)	White
+2110	1	WHITE, CAUCASIAN
+2110	2	CHINESE AMERICAN
+2110	3	BLACK, AFRICAN-AMERICAN
+2110	4	HISPANIC
+2120	AA	African American
+2120	A	Asian
+2120	W	White, Caucasian
+2120	H	Hispanic
+2120	N/A	Not vailable
+2130	F	Female
+2130	N/A	Not Applicable
+2130	M	Male
+2140	1	Male
+2140	2	Female

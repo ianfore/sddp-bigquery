@@ -1,0 +1,1176 @@
+variable_id	table_version_id	table_name	variable_name	variable_type	column_name	column_type
+phv00082638.v1	pht001111.v4	AirNRExamMain	sidno	NUMERIC	sidno	FLOAT
+phv00082639.v2	pht001111.v4	AirNRExamMain	age1c	NUMERIC	age1c	FLOAT
+phv00082640.v2	pht001111.v4	AirNRExamMain	agecat1c	NUMERIC	agecat1c	FLOAT
+phv00082641.v1	pht001111.v4	AirNRExamMain	race1c	NUMERIC	race1c	FLOAT
+phv00082642.v1	pht001111.v4	AirNRExamMain	lang1	NUMERIC	lang1	FLOAT
+phv00082643.v1	pht001111.v4	AirNRExamMain	gender1	NUMERIC	gender1	FLOAT
+phv00082644.v1	pht001111.v4	AirNRExamMain	site1c	NUMERIC	site1c	FLOAT
+phv00082645.v1	pht001111.v4	AirNRExamMain	month1	NUMERIC	month1	FLOAT
+phv00082646.v1	pht001111.v4	AirNRExamMain	season1	NUMERIC	season1	FLOAT
+phv00082647.v1	pht001111.v4	AirNRExamMain	metsyn1c	NUMERIC	metsyn1c	FLOAT
+phv00082648.v1	pht001111.v4	AirNRExamMain	frncep1c	NUMERIC	frncep1c	FLOAT
+phv00082649.v2	pht001111.v4	AirNRExamMain	frjama1c	NUMERIC	frjama1c	FLOAT
+phv00082650.v2	pht001111.v4	AirNRExamMain	frcirc1c	NUMERIC	frcirc1c	FLOAT
+phv00082651.v1	pht001111.v4	AirNRExamMain	claud1t	NUMERIC	claud1t	FLOAT
+phv00082652.v1	pht001111.v4	AirNRExamMain	dm031c	NUMERIC	dm031c	FLOAT
+phv00082653.v1	pht001111.v4	AirNRExamMain	dm031t	NUMERIC	dm031t	FLOAT
+phv00082654.v1	pht001111.v4	AirNRExamMain	dm031t2	NUMERIC	dm031t2	FLOAT
+phv00082655.v1	pht001111.v4	AirNRExamMain	htn1c	NUMERIC	htn1c	FLOAT
+phv00082656.v1	pht001111.v4	AirNRExamMain	htnstg1c	NUMERIC	htnstg1c	FLOAT
+phv00082657.v1	pht001111.v4	AirNRExamMain	agatum1c	NUMERIC	agatum1c	FLOAT
+phv00082658.v1	pht001111.v4	AirNRExamMain	volum1c	NUMERIC	volum1c	FLOAT
+phv00082659.v1	pht001111.v4	AirNRExamMain	volsum1c	NUMERIC	volsum1c	FLOAT
+phv00082660.v1	pht001111.v4	AirNRExamMain	agatpm1c	NUMERIC	agatpm1c	FLOAT
+phv00082661.v1	pht001111.v4	AirNRExamMain	agatpm1t	NUMERIC	agatpm1t	FLOAT
+phv00082662.v1	pht001111.v4	AirNRExamMain	cacgt01c	NUMERIC	cacgt01c	FLOAT
+phv00082663.v1	pht001111.v4	AirNRExamMain	volpm1c	NUMERIC	volpm1c	FLOAT
+phv00082664.v1	pht001111.v4	AirNRExamMain	vospm1c	NUMERIC	vospm1c	FLOAT
+phv00082665.v1	pht001111.v4	AirNRExamMain	rbrach1	NUMERIC	rbrach1	FLOAT
+phv00082666.v1	pht001111.v4	AirNRExamMain	rdpedis1	NUMERIC	rdpedis1	FLOAT
+phv00082667.v1	pht001111.v4	AirNRExamMain	rptib1	NUMERIC	rptib1	FLOAT
+phv00082668.v1	pht001111.v4	AirNRExamMain	lptib1	NUMERIC	lptib1	FLOAT
+phv00082669.v1	pht001111.v4	AirNRExamMain	ldpedis1	NUMERIC	ldpedis1	FLOAT
+phv00082670.v1	pht001111.v4	AirNRExamMain	lbrach1	NUMERIC	lbrach1	FLOAT
+phv00082671.v1	pht001111.v4	AirNRExamMain	aabpcmp1	NUMERIC	aabpcmp1	FLOAT
+phv00082672.v1	pht001111.v4	AirNRExamMain	rluoccl1	NUMERIC	rluoccl1	FLOAT
+phv00082673.v1	pht001111.v4	AirNRExamMain	rlulcer1	NUMERIC	rlulcer1	FLOAT
+phv00082674.v1	pht001111.v4	AirNRExamMain	rlamput1	NUMERIC	rlamput1	FLOAT
+phv00082675.v1	pht001111.v4	AirNRExamMain	rulocdp1	NUMERIC	rulocdp1	FLOAT
+phv00082676.v1	pht001111.v4	AirNRExamMain	rulocpt1	NUMERIC	rulocpt1	FLOAT
+phv00082677.v1	pht001111.v4	AirNRExamMain	lluoccl1	NUMERIC	lluoccl1	FLOAT
+phv00082678.v1	pht001111.v4	AirNRExamMain	llulcer1	NUMERIC	llulcer1	FLOAT
+phv00082679.v1	pht001111.v4	AirNRExamMain	llamput1	NUMERIC	llamput1	FLOAT
+phv00082680.v1	pht001111.v4	AirNRExamMain	lulocdp1	NUMERIC	lulocdp1	FLOAT
+phv00082681.v1	pht001111.v4	AirNRExamMain	lulocpt1	NUMERIC	lulocpt1	FLOAT
+phv00082682.v2	pht001111.v4	AirNRExamMain	abi1c	NUMERIC	abi1c	FLOAT
+phv00082683.v1	pht001111.v4	AirNRExamMain	htcm1	NUMERIC	htcm1	FLOAT
+phv00082684.v1	pht001111.v4	AirNRExamMain	htmodp1	NUMERIC	htmodp1	FLOAT
+phv00082685.v1	pht001111.v4	AirNRExamMain	wtlb1	NUMERIC	wtlb1	FLOAT
+phv00082686.v1	pht001111.v4	AirNRExamMain	wtmodp1	NUMERIC	wtmodp1	FLOAT
+phv00082687.v1	pht001111.v4	AirNRExamMain	waistcm1	NUMERIC	waistcm1	FLOAT
+phv00082688.v1	pht001111.v4	AirNRExamMain	hipcm1	NUMERIC	hipcm1	FLOAT
+phv00082689.v1	pht001111.v4	AirNRExamMain	hwmodp1	NUMERIC	hwmodp1	FLOAT
+phv00082690.v1	pht001111.v4	AirNRExamMain	cmtmodp1	NUMERIC	cmtmodp1	FLOAT
+phv00082691.v2	pht001111.v4	AirNRExamMain	bmi1c	NUMERIC	bmi1c	FLOAT
+phv00082692.v1	pht001111.v4	AirNRExamMain	bmicat1c	NUMERIC	bmicat1c	FLOAT
+phv00082693.v2	pht001111.v4	AirNRExamMain	bsa1c	NUMERIC	bsa1c	FLOAT
+phv00082694.v1	pht001111.v4	AirNRExamMain	ecgoe1	NUMERIC	ecgoe1	FLOAT
+phv00082695.v1	pht001111.v4	AirNRExamMain	ecgov61	NUMERIC	ecgov61	FLOAT
+phv00082696.v1	pht001111.v4	AirNRExamMain	ecgfst1	NUMERIC	ecgfst1	FLOAT
+phv00082697.v1	pht001111.v4	AirNRExamMain	eceattm1	STRING	eceattm1	STRING
+phv00082698.v1	pht001111.v4	AirNRExamMain	ecgcmp1	NUMERIC	ecgcmp1	FLOAT
+phv00082699.v1	pht001111.v4	AirNRExamMain	ecginc1	NUMERIC	ecginc1	FLOAT
+phv00082700.v1	pht001111.v4	AirNRExamMain	hrtrate1	NUMERIC	hrtrate1	FLOAT
+phv00082701.v1	pht001111.v4	AirNRExamMain	ecgafib1	NUMERIC	ecgafib1	FLOAT
+phv00082702.v1	pht001111.v4	AirNRExamMain	ecgpmk1	NUMERIC	ecgpmk1	FLOAT
+phv00082703.v1	pht001111.v4	AirNRExamMain	ecgaflt1	NUMERIC	ecgaflt1	FLOAT
+phv00082704.v1	pht001111.v4	AirNRExamMain	ecgwpw1	NUMERIC	ecgwpw1	FLOAT
+phv00082705.v1	pht001111.v4	AirNRExamMain	ecgivrh1	NUMERIC	ecgivrh1	FLOAT
+phv00082706.v1	pht001111.v4	AirNRExamMain	ecgvtch1	NUMERIC	ecgvtch1	FLOAT
+phv00082707.v1	pht001111.v4	AirNRExamMain	ecghblk1	NUMERIC	ecghblk1	FLOAT
+phv00082708.v1	pht001111.v4	AirNRExamMain	ecglbbb1	NUMERIC	ecglbbb1	FLOAT
+phv00082709.v1	pht001111.v4	AirNRExamMain	ecgacpr1	NUMERIC	ecgacpr1	FLOAT
+phv00082710.v1	pht001111.v4	AirNRExamMain	ecginj1	NUMERIC	ecginj1	FLOAT
+phv00082711.v1	pht001111.v4	AirNRExamMain	ecgoth1	NUMERIC	ecgoth1	FLOAT
+phv00082712.v1	pht001111.v4	AirNRExamMain	cartnum1	NUMERIC	cartnum1	FLOAT
+phv00082713.v1	pht001111.v4	AirNRExamMain	epicare1	NUMERIC	epicare1	FLOAT
+phv00082714.v1	pht001111.v4	AirNRExamMain	prdur1	NUMERIC	prdur1	FLOAT
+phv00082715.v1	pht001111.v4	AirNRExamMain	qrsdur1	NUMERIC	qrsdur1	FLOAT
+phv00082716.v1	pht001111.v4	AirNRExamMain	qtdur1	NUMERIC	qtdur1	FLOAT
+phv00082717.v1	pht001111.v4	AirNRExamMain	qtcdur1	NUMERIC	qtcdur1	FLOAT
+phv00082718.v1	pht001111.v4	AirNRExamMain	paxis1	NUMERIC	paxis1	FLOAT
+phv00082719.v1	pht001111.v4	AirNRExamMain	qrsaxis1	NUMERIC	qrsaxis1	FLOAT
+phv00082720.v1	pht001111.v4	AirNRExamMain	taxis1	NUMERIC	taxis1	FLOAT
+phv00082721.v1	pht001111.v4	AirNRExamMain	ecgqgrd1	NUMERIC	ecgqgrd1	FLOAT
+phv00082722.v1	pht001111.v4	AirNRExamMain	leadswp1	NUMERIC	leadswp1	FLOAT
+phv00082723.v1	pht001111.v4	AirNRExamMain	ncvp1a1	STRING	ncvp1a1	STRING
+phv00082724.v1	pht001111.v4	AirNRExamMain	ncvp1b1	STRING	ncvp1b1	STRING
+phv00082725.v1	pht001111.v4	AirNRExamMain	ncvp1c1	STRING	ncvp1c1	STRING
+phv00082726.v1	pht001111.v4	AirNRExamMain	ncvp1d1	STRING	ncvp1d1	STRING
+phv00082727.v1	pht001111.v4	AirNRExamMain	ncvp1e1	STRING	ncvp1e1	STRING
+phv00082728.v1	pht001111.v4	AirNRExamMain	ncvp1f1	STRING	ncvp1f1	STRING
+phv00082729.v1	pht001111.v4	AirNRExamMain	ncvp1g1	STRING	ncvp1g1	STRING
+phv00082730.v1	pht001111.v4	AirNRExamMain	ncsuppa1	STRING	ncsuppa1	STRING
+phv00082731.v1	pht001111.v4	AirNRExamMain	ncsuppb1	STRING	ncsuppb1	STRING
+phv00082732.v1	pht001111.v4	AirNRExamMain	ncsuppc1	STRING	ncsuppc1	STRING
+phv00082733.v1	pht001111.v4	AirNRExamMain	ncsuppd1	STRING	ncsuppd1	STRING
+phv00082734.v1	pht001111.v4	AirNRExamMain	ncsuppe1	STRING	ncsuppe1	STRING
+phv00082735.v1	pht001111.v4	AirNRExamMain	ncsuppf1	STRING	ncsuppf1	STRING
+phv00082736.v1	pht001111.v4	AirNRExamMain	ncsuppg1	STRING	ncsuppg1	STRING
+phv00082737.v1	pht001111.v4	AirNRExamMain	ncsp21	STRING	ncsp21	STRING
+phv00082738.v1	pht001111.v4	AirNRExamMain	ncsp31	STRING	ncsp31	STRING
+phv00082739.v1	pht001111.v4	AirNRExamMain	ncsp41	STRING	ncsp41	STRING
+phv00082740.v1	pht001111.v4	AirNRExamMain	ncsp51	STRING	ncsp51	STRING
+phv00082741.v1	pht001111.v4	AirNRExamMain	ncsp61	STRING	ncsp61	STRING
+phv00082742.v1	pht001111.v4	AirNRExamMain	ncsp71	STRING	ncsp71	STRING
+phv00082743.v1	pht001111.v4	AirNRExamMain	ncsp81	STRING	ncsp81	STRING
+phv00082744.v1	pht001111.v4	AirNRExamMain	ncsp91	STRING	ncsp91	STRING
+phv00082745.v1	pht001111.v4	AirNRExamMain	ncsp101	STRING	ncsp101	STRING
+phv00082746.v1	pht001111.v4	AirNRExamMain	ncvp21	STRING	ncvp21	STRING
+phv00082747.v1	pht001111.v4	AirNRExamMain	ncvp31	STRING	ncvp31	STRING
+phv00082748.v1	pht001111.v4	AirNRExamMain	ncvp41	STRING	ncvp41	STRING
+phv00082749.v1	pht001111.v4	AirNRExamMain	ncvp51	STRING	ncvp51	STRING
+phv00082750.v1	pht001111.v4	AirNRExamMain	ncvp61	STRING	ncvp61	STRING
+phv00082751.v1	pht001111.v4	AirNRExamMain	ncvp71	STRING	ncvp71	STRING
+phv00082752.v1	pht001111.v4	AirNRExamMain	ncvp81	STRING	ncvp81	STRING
+phv00082753.v1	pht001111.v4	AirNRExamMain	ncvp91	STRING	ncvp91	STRING
+phv00082754.v1	pht001111.v4	AirNRExamMain	ncvp101	STRING	ncvp101	STRING
+phv00082755.v1	pht001111.v4	AirNRExamMain	mc1avl1	STRING	mc1avl1	STRING
+phv00082756.v1	pht001111.v4	AirNRExamMain	mc1i1	STRING	mc1i1	STRING
+phv00082757.v1	pht001111.v4	AirNRExamMain	mc1ii1	STRING	mc1ii1	STRING
+phv00082758.v1	pht001111.v4	AirNRExamMain	mc1avf1	STRING	mc1avf1	STRING
+phv00082759.v1	pht001111.v4	AirNRExamMain	mc1iii1	STRING	mc1iii1	STRING
+phv00082760.v1	pht001111.v4	AirNRExamMain	mc1v11	STRING	mc1v11	STRING
+phv00082761.v1	pht001111.v4	AirNRExamMain	mc1v21	STRING	mc1v21	STRING
+phv00082762.v1	pht001111.v4	AirNRExamMain	mc1v31	STRING	mc1v31	STRING
+phv00082763.v1	pht001111.v4	AirNRExamMain	mc1v41	STRING	mc1v41	STRING
+phv00082764.v1	pht001111.v4	AirNRExamMain	mc1v51	STRING	mc1v51	STRING
+phv00082765.v1	pht001111.v4	AirNRExamMain	mc1v61	STRING	mc1v61	STRING
+phv00082766.v1	pht001111.v4	AirNRExamMain	mc4avl1	STRING	mc4avl1	STRING
+phv00082767.v1	pht001111.v4	AirNRExamMain	mc4i1	STRING	mc4i1	STRING
+phv00082768.v1	pht001111.v4	AirNRExamMain	mc4ii1	STRING	mc4ii1	STRING
+phv00082769.v1	pht001111.v4	AirNRExamMain	mc4avf1	STRING	mc4avf1	STRING
+phv00082770.v1	pht001111.v4	AirNRExamMain	mc4iii1	STRING	mc4iii1	STRING
+phv00082771.v1	pht001111.v4	AirNRExamMain	mc4v11	STRING	mc4v11	STRING
+phv00082772.v1	pht001111.v4	AirNRExamMain	mc4v21	STRING	mc4v21	STRING
+phv00082773.v1	pht001111.v4	AirNRExamMain	mc4v31	STRING	mc4v31	STRING
+phv00082774.v1	pht001111.v4	AirNRExamMain	mc4v41	STRING	mc4v41	STRING
+phv00082775.v1	pht001111.v4	AirNRExamMain	mc4v51	STRING	mc4v51	STRING
+phv00082776.v1	pht001111.v4	AirNRExamMain	mc4v61	STRING	mc4v61	STRING
+phv00082777.v1	pht001111.v4	AirNRExamMain	mc5avl1	STRING	mc5avl1	STRING
+phv00082778.v1	pht001111.v4	AirNRExamMain	mc5i1	STRING	mc5i1	STRING
+phv00082779.v1	pht001111.v4	AirNRExamMain	mc5ii1	STRING	mc5ii1	STRING
+phv00082780.v1	pht001111.v4	AirNRExamMain	mc5avf1	STRING	mc5avf1	STRING
+phv00082781.v1	pht001111.v4	AirNRExamMain	mc5iii1	STRING	mc5iii1	STRING
+phv00082782.v1	pht001111.v4	AirNRExamMain	mc5v11	STRING	mc5v11	STRING
+phv00082783.v1	pht001111.v4	AirNRExamMain	mc5v21	STRING	mc5v21	STRING
+phv00082784.v1	pht001111.v4	AirNRExamMain	mc5v31	STRING	mc5v31	STRING
+phv00082785.v1	pht001111.v4	AirNRExamMain	mc5v41	STRING	mc5v41	STRING
+phv00082786.v1	pht001111.v4	AirNRExamMain	mc5v51	STRING	mc5v51	STRING
+phv00082787.v1	pht001111.v4	AirNRExamMain	mc5v61	STRING	mc5v61	STRING
+phv00082788.v1	pht001111.v4	AirNRExamMain	mc92avl1	STRING	mc92avl1	STRING
+phv00082789.v1	pht001111.v4	AirNRExamMain	mc92i1	STRING	mc92i1	STRING
+phv00082790.v1	pht001111.v4	AirNRExamMain	mc92ii1	STRING	mc92ii1	STRING
+phv00082791.v1	pht001111.v4	AirNRExamMain	mc92avf1	STRING	mc92avf1	STRING
+phv00082792.v1	pht001111.v4	AirNRExamMain	mc92iii1	STRING	mc92iii1	STRING
+phv00082793.v1	pht001111.v4	AirNRExamMain	mc92v11	STRING	mc92v11	STRING
+phv00082794.v1	pht001111.v4	AirNRExamMain	mc92v21	STRING	mc92v21	STRING
+phv00082795.v1	pht001111.v4	AirNRExamMain	mc92v31	STRING	mc92v31	STRING
+phv00082796.v1	pht001111.v4	AirNRExamMain	mc92v41	STRING	mc92v41	STRING
+phv00082797.v1	pht001111.v4	AirNRExamMain	mc92v51	STRING	mc92v51	STRING
+phv00082798.v1	pht001111.v4	AirNRExamMain	mc92v61	STRING	mc92v61	STRING
+phv00082799.v1	pht001111.v4	AirNRExamMain	mcl11	STRING	mcl11	STRING
+phv00082800.v1	pht001111.v4	AirNRExamMain	mcl41	STRING	mcl41	STRING
+phv00082801.v1	pht001111.v4	AirNRExamMain	mcl51	STRING	mcl51	STRING
+phv00082802.v1	pht001111.v4	AirNRExamMain	mcl921	STRING	mcl921	STRING
+phv00082803.v1	pht001111.v4	AirNRExamMain	mcf11	STRING	mcf11	STRING
+phv00082804.v1	pht001111.v4	AirNRExamMain	mcf41	STRING	mcf41	STRING
+phv00082805.v1	pht001111.v4	AirNRExamMain	mcf51	STRING	mcf51	STRING
+phv00082806.v1	pht001111.v4	AirNRExamMain	mcf921	STRING	mcf921	STRING
+phv00082807.v1	pht001111.v4	AirNRExamMain	mcv11	STRING	mcv11	STRING
+phv00082808.v1	pht001111.v4	AirNRExamMain	mcv41	STRING	mcv41	STRING
+phv00082809.v1	pht001111.v4	AirNRExamMain	mcv51	STRING	mcv51	STRING
+phv00082810.v1	pht001111.v4	AirNRExamMain	mcv921	STRING	mcv921	STRING
+phv00082811.v1	pht001111.v4	AirNRExamMain	mc21	STRING	mc21	STRING
+phv00082812.v1	pht001111.v4	AirNRExamMain	mc31	STRING	mc31	STRING
+phv00082813.v1	pht001111.v4	AirNRExamMain	mc71	STRING	mc71	STRING
+phv00082814.v1	pht001111.v4	AirNRExamMain	mc911	STRING	mc911	STRING
+phv00082815.v1	pht001111.v4	AirNRExamMain	mc931	STRING	mc931	STRING
+phv00082816.v1	pht001111.v4	AirNRExamMain	mc941	STRING	mc941	STRING
+phv00082817.v1	pht001111.v4	AirNRExamMain	mc951	STRING	mc951	STRING
+phv00082818.v1	pht001111.v4	AirNRExamMain	mcr611	STRING	mcr611	STRING
+phv00082819.v1	pht001111.v4	AirNRExamMain	mcr621	STRING	mcr621	STRING
+phv00082820.v1	pht001111.v4	AirNRExamMain	mcr631	STRING	mcr631	STRING
+phv00082821.v1	pht001111.v4	AirNRExamMain	mcr641	STRING	mcr641	STRING
+phv00082822.v1	pht001111.v4	AirNRExamMain	mcr651	STRING	mcr651	STRING
+phv00082823.v1	pht001111.v4	AirNRExamMain	mcr681	STRING	mcr681	STRING
+phv00082824.v1	pht001111.v4	AirNRExamMain	mcr811	STRING	mcr811	STRING
+phv00082825.v1	pht001111.v4	AirNRExamMain	mcr821	STRING	mcr821	STRING
+phv00082826.v1	pht001111.v4	AirNRExamMain	mcr831	STRING	mcr831	STRING
+phv00082827.v1	pht001111.v4	AirNRExamMain	mcr841	STRING	mcr841	STRING
+phv00082828.v1	pht001111.v4	AirNRExamMain	mcr861	STRING	mcr861	STRING
+phv00082829.v1	pht001111.v4	AirNRExamMain	mcr871	STRING	mcr871	STRING
+phv00082830.v1	pht001111.v4	AirNRExamMain	mcr881	STRING	mcr881	STRING
+phv00082831.v1	pht001111.v4	AirNRExamMain	mcr891	STRING	mcr891	STRING
+phv00082832.v1	pht001111.v4	AirNRExamMain	rmsdd1	NUMERIC	rmsdd1	FLOAT
+phv00082833.v1	pht001111.v4	AirNRExamMain	sdnn1	NUMERIC	sdnn1	FLOAT
+phv00082834.v1	pht001111.v4	AirNRExamMain	ecgnum1	NUMERIC	ecgnum1	FLOAT
+phv00082835.v1	pht001111.v4	AirNRExamMain	baseseq1	NUMERIC	baseseq1	FLOAT
+phv00082836.v1	pht001111.v4	AirNRExamMain	paxis1c	NUMERIC	paxis1c	FLOAT
+phv00082837.v1	pht001111.v4	AirNRExamMain	prdur1c	NUMERIC	prdur1c	FLOAT
+phv00082838.v1	pht001111.v4	AirNRExamMain	vcd1c	NUMERIC	vcd1c	FLOAT
+phv00082839.v1	pht001111.v4	AirNRExamMain	qqs1c	NUMERIC	qqs1c	FLOAT
+phv00082840.v1	pht001111.v4	AirNRExamMain	qst1c	NUMERIC	qst1c	FLOAT
+phv00082841.v1	pht001111.v4	AirNRExamMain	stt1c	NUMERIC	stt1c	FLOAT
+phv00082842.v1	pht001111.v4	AirNRExamMain	ecglvh1c	NUMERIC	ecglvh1c	FLOAT
+phv00082843.v1	pht001111.v4	AirNRExamMain	afib1c	NUMERIC	afib1c	FLOAT
+phv00082844.v1	pht001111.v4	AirNRExamMain	avb1c	NUMERIC	avb1c	FLOAT
+phv00082845.v1	pht001111.v4	AirNRExamMain	majabn1c	NUMERIC	majabn1c	FLOAT
+phv00082846.v1	pht001111.v4	AirNRExamMain	mqs1c	NUMERIC	mqs1c	FLOAT
+phv00082847.v1	pht001111.v4	AirNRExamMain	hir1c	NUMERIC	hir1c	FLOAT
+phv00082848.v1	pht001111.v4	AirNRExamMain	mst1c	NUMERIC	mst1c	FLOAT
+phv00082849.v1	pht001111.v4	AirNRExamMain	ste1c	NUMERIC	ste1c	FLOAT
+phv00082850.v1	pht001111.v4	AirNRExamMain	irbbb1c	NUMERIC	irbbb1c	FLOAT
+phv00082851.v1	pht001111.v4	AirNRExamMain	lqt1c	NUMERIC	lqt1c	FLOAT
+phv00082852.v1	pht001111.v4	AirNRExamMain	spr1c	NUMERIC	spr1c	FLOAT
+phv00082853.v1	pht001111.v4	AirNRExamMain	lad1c	NUMERIC	lad1c	FLOAT
+phv00082854.v1	pht001111.v4	AirNRExamMain	rad1c	NUMERIC	rad1c	FLOAT
+phv00082855.v1	pht001111.v4	AirNRExamMain	minabn1c	NUMERIC	minabn1c	FLOAT
+phv00082856.v1	pht001111.v4	AirNRExamMain	agatu11c	NUMERIC	agatu11c	FLOAT
+phv00082857.v1	pht001111.v4	AirNRExamMain	agatu21c	NUMERIC	agatu21c	FLOAT
+phv00082858.v1	pht001111.v4	AirNRExamMain	volu11c	NUMERIC	volu11c	FLOAT
+phv00082859.v1	pht001111.v4	AirNRExamMain	volu21c	NUMERIC	volu21c	FLOAT
+phv00082860.v1	pht001111.v4	AirNRExamMain	volsu11c	NUMERIC	volsu11c	FLOAT
+phv00082861.v1	pht001111.v4	AirNRExamMain	volsu21c	NUMERIC	volsu21c	FLOAT
+phv00082862.v1	pht001111.v4	AirNRExamMain	agatp11c	NUMERIC	agatp11c	FLOAT
+phv00082863.v1	pht001111.v4	AirNRExamMain	agatp21c	NUMERIC	agatp21c	FLOAT
+phv00082864.v1	pht001111.v4	AirNRExamMain	volp11c	NUMERIC	volp11c	FLOAT
+phv00082865.v1	pht001111.v4	AirNRExamMain	volp21c	NUMERIC	volp21c	FLOAT
+phv00082866.v1	pht001111.v4	AirNRExamMain	volsp11c	NUMERIC	volsp11c	FLOAT
+phv00082867.v1	pht001111.v4	AirNRExamMain	volsp21c	NUMERIC	volsp21c	FLOAT
+phv00082868.v1	pht001111.v4	AirNRExamMain	mass11c	NUMERIC	mass11c	FLOAT
+phv00082869.v1	pht001111.v4	AirNRExamMain	mass21c	NUMERIC	mass21c	FLOAT
+phv00082870.v1	pht001111.v4	AirNRExamMain	massm1c	NUMERIC	massm1c	FLOAT
+phv00082871.v1	pht001111.v4	AirNRExamMain	phok11c	NUMERIC	phok11c	FLOAT
+phv00082872.v1	pht001111.v4	AirNRExamMain	phok21c	NUMERIC	phok21c	FLOAT
+phv00082873.v1	pht001111.v4	AirNRExamMain	model1	STRING	model1	STRING
+phv00082874.v1	pht001111.v4	AirNRExamMain	modelno1	NUMERIC	modelno1	FLOAT
+phv00082875.v1	pht001111.v4	AirNRExamMain	angct1	NUMERIC	angct1	FLOAT
+phv00082876.v1	pht001111.v4	AirNRExamMain	coronct1	NUMERIC	coronct1	FLOAT
+phv00082877.v1	pht001111.v4	AirNRExamMain	qcmot1	STRING	qcmot1	STRING
+phv00082878.v1	pht001111.v4	AirNRExamMain	qcstrk1	STRING	qcstrk1	STRING
+phv00082879.v1	pht001111.v4	AirNRExamMain	qcph1	STRING	qcph1	STRING
+phv00082880.v1	pht001111.v4	AirNRExamMain	qcreg1	STRING	qcreg1	STRING
+phv00082881.v1	pht001111.v4	AirNRExamMain	qcnoise1	STRING	qcnoise1	STRING
+phv00082882.v1	pht001111.v4	AirNRExamMain	qczaxis1	STRING	qczaxis1	STRING
+phv00082883.v1	pht001111.v4	AirNRExamMain	qcxypln1	STRING	qcxypln1	STRING
+phv00082884.v1	pht001111.v4	AirNRExamMain	vlft1	NUMERIC	vlft1	FLOAT
+phv00082885.v1	pht001111.v4	AirNRExamMain	vlad1	NUMERIC	vlad1	FLOAT
+phv00082886.v1	pht001111.v4	AirNRExamMain	vcrc1	NUMERIC	vcrc1	FLOAT
+phv00082887.v1	pht001111.v4	AirNRExamMain	vrt1	NUMERIC	vrt1	FLOAT
+phv00082888.v1	pht001111.v4	AirNRExamMain	slft1	NUMERIC	slft1	FLOAT
+phv00082889.v1	pht001111.v4	AirNRExamMain	slad1	NUMERIC	slad1	FLOAT
+phv00082890.v1	pht001111.v4	AirNRExamMain	scrc1	NUMERIC	scrc1	FLOAT
+phv00082891.v1	pht001111.v4	AirNRExamMain	srt1	NUMERIC	srt1	FLOAT
+phv00082892.v1	pht001111.v4	AirNRExamMain	vslft1	NUMERIC	vslft1	FLOAT
+phv00082893.v1	pht001111.v4	AirNRExamMain	vslad1	NUMERIC	vslad1	FLOAT
+phv00082894.v1	pht001111.v4	AirNRExamMain	vscrc1	NUMERIC	vscrc1	FLOAT
+phv00082895.v1	pht001111.v4	AirNRExamMain	vsrt1	NUMERIC	vsrt1	FLOAT
+phv00082896.v1	pht001111.v4	AirNRExamMain	mlft1	NUMERIC	mlft1	FLOAT
+phv00082897.v1	pht001111.v4	AirNRExamMain	mlad1	NUMERIC	mlad1	FLOAT
+phv00082898.v1	pht001111.v4	AirNRExamMain	mcrc1	NUMERIC	mcrc1	FLOAT
+phv00082899.v1	pht001111.v4	AirNRExamMain	mrt1	NUMERIC	mrt1	FLOAT
+phv00082900.v1	pht001111.v4	AirNRExamMain	exp1	NUMERIC	exp1	FLOAT
+phv00082901.v1	pht001111.v4	AirNRExamMain	ma1	NUMERIC	ma1	FLOAT
+phv00082902.v1	pht001111.v4	AirNRExamMain	kvp1	NUMERIC	kvp1	FLOAT
+phv00082903.v1	pht001111.v4	AirNRExamMain	slcthk1	NUMERIC	slcthk1	FLOAT
+phv00082904.v1	pht001111.v4	AirNRExamMain	pixlen1	NUMERIC	pixlen1	FLOAT
+phv00082905.v1	pht001111.v4	AirNRExamMain	nph1mn1	NUMERIC	nph1mn1	FLOAT
+phv00082906.v1	pht001111.v4	AirNRExamMain	nph1sd1	NUMERIC	nph1sd1	FLOAT
+phv00082907.v1	pht001111.v4	AirNRExamMain	nph2mn1	NUMERIC	nph2mn1	FLOAT
+phv00082908.v1	pht001111.v4	AirNRExamMain	nph2sd1	NUMERIC	nph2sd1	FLOAT
+phv00082909.v1	pht001111.v4	AirNRExamMain	nph3mn1	NUMERIC	nph3mn1	FLOAT
+phv00082910.v1	pht001111.v4	AirNRExamMain	nph3sd1	NUMERIC	nph3sd1	FLOAT
+phv00082911.v1	pht001111.v4	AirNRExamMain	nph4mn1	NUMERIC	nph4mn1	FLOAT
+phv00082912.v1	pht001111.v4	AirNRExamMain	nph4sd1	NUMERIC	nph4sd1	FLOAT
+phv00082913.v1	pht001111.v4	AirNRExamMain	mslope1	NUMERIC	mslope1	FLOAT
+phv00082914.v1	pht001111.v4	AirNRExamMain	mintcpt1	NUMERIC	mintcpt1	FLOAT
+phv00082915.v1	pht001111.v4	AirNRExamMain	adiam11	NUMERIC	adiam11	FLOAT
+phv00082916.v1	pht001111.v4	AirNRExamMain	adiam21	NUMERIC	adiam21	FLOAT
+phv00082917.v1	pht001111.v4	AirNRExamMain	adiam31	NUMERIC	adiam31	FLOAT
+phv00082918.v1	pht001111.v4	AirNRExamMain	ctsmod1	NUMERIC	ctsmod1	FLOAT
+phv00082919.v1	pht001111.v4	AirNRExamMain	fhmi1	NUMERIC	fhmi1	FLOAT
+phv00082920.v1	pht001111.v4	AirNRExamMain	fhcrd1	NUMERIC	fhcrd1	FLOAT
+phv00082921.v1	pht001111.v4	AirNRExamMain	bother1	NUMERIC	bother1	FLOAT
+phv00082922.v1	pht001111.v4	AirNRExamMain	noteat1	NUMERIC	noteat1	FLOAT
+phv00082923.v1	pht001111.v4	AirNRExamMain	blue1	NUMERIC	blue1	FLOAT
+phv00082924.v1	pht001111.v4	AirNRExamMain	asgood1	NUMERIC	asgood1	FLOAT
+phv00082925.v1	pht001111.v4	AirNRExamMain	concntr1	NUMERIC	concntr1	FLOAT
+phv00082926.v1	pht001111.v4	AirNRExamMain	depress1	NUMERIC	depress1	FLOAT
+phv00082927.v1	pht001111.v4	AirNRExamMain	effort1	NUMERIC	effort1	FLOAT
+phv00082928.v1	pht001111.v4	AirNRExamMain	hopeful1	NUMERIC	hopeful1	FLOAT
+phv00082929.v1	pht001111.v4	AirNRExamMain	lffail1	NUMERIC	lffail1	FLOAT
+phv00082930.v1	pht001111.v4	AirNRExamMain	fearful1	NUMERIC	fearful1	FLOAT
+phv00082931.v1	pht001111.v4	AirNRExamMain	badslp1	NUMERIC	badslp1	FLOAT
+phv00082932.v1	pht001111.v4	AirNRExamMain	happy1	NUMERIC	happy1	FLOAT
+phv00082933.v1	pht001111.v4	AirNRExamMain	lestalk1	NUMERIC	lestalk1	FLOAT
+phv00082934.v1	pht001111.v4	AirNRExamMain	lonely1	NUMERIC	lonely1	FLOAT
+phv00082935.v1	pht001111.v4	AirNRExamMain	unfrnly1	NUMERIC	unfrnly1	FLOAT
+phv00082936.v1	pht001111.v4	AirNRExamMain	enjlife1	NUMERIC	enjlife1	FLOAT
+phv00082937.v1	pht001111.v4	AirNRExamMain	cryspel1	NUMERIC	cryspel1	FLOAT
+phv00082938.v1	pht001111.v4	AirNRExamMain	sad1	NUMERIC	sad1	FLOAT
+phv00082939.v1	pht001111.v4	AirNRExamMain	dislikd1	NUMERIC	dislikd1	FLOAT
+phv00082940.v1	pht001111.v4	AirNRExamMain	getgoin1	NUMERIC	getgoin1	FLOAT
+phv00082941.v1	pht001111.v4	AirNRExamMain	talkto1	NUMERIC	talkto1	FLOAT
+phv00082942.v1	pht001111.v4	AirNRExamMain	advice1	NUMERIC	advice1	FLOAT
+phv00082943.v1	pht001111.v4	AirNRExamMain	affectn1	NUMERIC	affectn1	FLOAT
+phv00082944.v1	pht001111.v4	AirNRExamMain	hlpchr1	NUMERIC	hlpchr1	FLOAT
+phv00082945.v1	pht001111.v4	AirNRExamMain	emospt1	NUMERIC	emospt1	FLOAT
+phv00082946.v1	pht001111.v4	AirNRExamMain	confide1	NUMERIC	confide1	FLOAT
+phv00082947.v1	pht001111.v4	AirNRExamMain	hlfadm1	NUMERIC	hlfadm1	FLOAT
+phv00082948.v1	pht001111.v4	AirNRExamMain	emot1c	NUMERIC	emot1c	FLOAT
+phv00082949.v1	pht001111.v4	AirNRExamMain	cesd1c	NUMERIC	cesd1c	FLOAT
+phv00082950.v1	pht001111.v4	AirNRExamMain	trig1	NUMERIC	trig1	FLOAT
+phv00082951.v1	pht001111.v4	AirNRExamMain	ldl1	NUMERIC	ldl1	FLOAT
+phv00082952.v1	pht001111.v4	AirNRExamMain	hdl1	NUMERIC	hdl1	FLOAT
+phv00082953.v1	pht001111.v4	AirNRExamMain	glucos1c	NUMERIC	glucos1c	FLOAT
+phv00082954.v1	pht001111.v4	AirNRExamMain	glucos1u	NUMERIC	glucos1u	FLOAT
+phv00082955.v1	pht001111.v4	AirNRExamMain	creatin1	NUMERIC	creatin1	FLOAT
+phv00082956.v1	pht001111.v4	AirNRExamMain	chol1	NUMERIC	chol1	FLOAT
+phv00082957.v1	pht001111.v4	AirNRExamMain	chlcat1c	NUMERIC	chlcat1c	FLOAT
+phv00082958.v1	pht001111.v4	AirNRExamMain	hdlcat1c	NUMERIC	hdlcat1c	FLOAT
+phv00082959.v1	pht001111.v4	AirNRExamMain	ldlcat1c	NUMERIC	ldlcat1c	FLOAT
+phv00082960.v1	pht001111.v4	AirNRExamMain	trgcat1c	NUMERIC	trgcat1c	FLOAT
+phv00082961.v2	pht001111.v4	AirNRExamMain	egfr1c	NUMERIC	egfr1c	FLOAT
+phv00082962.v1	pht001111.v4	AirNRExamMain	renins1c	NUMERIC	renins1c	FLOAT
+phv00082963.v1	pht001111.v4	AirNRExamMain	icam1	NUMERIC	icam1	FLOAT
+phv00082964.v1	pht001111.v4	AirNRExamMain	icam1m	NUMERIC	icam1m	FLOAT
+phv00082965.v1	pht001111.v4	AirNRExamMain	fib1	NUMERIC	fib1	FLOAT
+phv00082966.v1	pht001111.v4	AirNRExamMain	fib1m	NUMERIC	fib1m	FLOAT
+phv00082967.v1	pht001111.v4	AirNRExamMain	crp1	NUMERIC	crp1	FLOAT
+phv00082968.v1	pht001111.v4	AirNRExamMain	crp1m	NUMERIC	crp1m	FLOAT
+phv00082969.v1	pht001111.v4	AirNRExamMain	eselect1	NUMERIC	eselect1	FLOAT
+phv00082970.v1	pht001111.v4	AirNRExamMain	eselect1m	NUMERIC	eselect1m	FLOAT
+phv00082971.v1	pht001111.v4	AirNRExamMain	ddimer1	NUMERIC	ddimer1	FLOAT
+phv00082972.v1	pht001111.v4	AirNRExamMain	ddimer1m	NUMERIC	ddimer1m	FLOAT
+phv00082973.v1	pht001111.v4	AirNRExamMain	hlthage1	NUMERIC	hlthage1	FLOAT
+phv00082974.v1	pht001111.v4	AirNRExamMain	emphys1	NUMERIC	emphys1	FLOAT
+phv00082975.v1	pht001111.v4	AirNRExamMain	asthma1	NUMERIC	asthma1	FLOAT
+phv00082976.v1	pht001111.v4	AirNRExamMain	arthrit1	NUMERIC	arthrit1	FLOAT
+phv00082977.v1	pht001111.v4	AirNRExamMain	cancer1	NUMERIC	cancer1	FLOAT
+phv00082978.v1	pht001111.v4	AirNRExamMain	prostcn1	NUMERIC	prostcn1	FLOAT
+phv00082979.v1	pht001111.v4	AirNRExamMain	brstcn1	NUMERIC	brstcn1	FLOAT
+phv00082980.v1	pht001111.v4	AirNRExamMain	lungcn1	NUMERIC	lungcn1	FLOAT
+phv00082981.v1	pht001111.v4	AirNRExamMain	coloncn1	NUMERIC	coloncn1	FLOAT
+phv00082982.v1	pht001111.v4	AirNRExamMain	nmskncn1	NUMERIC	nmskncn1	FLOAT
+phv00082983.v1	pht001111.v4	AirNRExamMain	bloodcn1	NUMERIC	bloodcn1	FLOAT
+phv00082984.v1	pht001111.v4	AirNRExamMain	othcn1	NUMERIC	othcn1	FLOAT
+phv00082985.v1	pht001111.v4	AirNRExamMain	rheuhv1	NUMERIC	rheuhv1	FLOAT
+phv00082986.v1	pht001111.v4	AirNRExamMain	bldclot1	NUMERIC	bldclot1	FLOAT
+phv00082987.v1	pht001111.v4	AirNRExamMain	liverd1	NUMERIC	liverd1	FLOAT
+phv00082988.v1	pht001111.v4	AirNRExamMain	cirrh1	NUMERIC	cirrh1	FLOAT
+phv00082989.v1	pht001111.v4	AirNRExamMain	hepat1	NUMERIC	hepat1	FLOAT
+phv00082990.v1	pht001111.v4	AirNRExamMain	heptpa1	NUMERIC	heptpa1	FLOAT
+phv00082991.v1	pht001111.v4	AirNRExamMain	heptpb1	NUMERIC	heptpb1	FLOAT
+phv00082992.v1	pht001111.v4	AirNRExamMain	heptpc1	NUMERIC	heptpc1	FLOAT
+phv00082993.v1	pht001111.v4	AirNRExamMain	heptpd1	NUMERIC	heptpd1	FLOAT
+phv00082994.v1	pht001111.v4	AirNRExamMain	heptpe1	NUMERIC	heptpe1	FLOAT
+phv00082995.v1	pht001111.v4	AirNRExamMain	heptpu1	NUMERIC	heptpu1	FLOAT
+phv00082996.v1	pht001111.v4	AirNRExamMain	kdnydis1	NUMERIC	kdnydis1	FLOAT
+phv00082997.v1	pht001111.v4	AirNRExamMain	highbp1	NUMERIC	highbp1	FLOAT
+phv00082998.v1	pht001111.v4	AirNRExamMain	bpmed1	NUMERIC	bpmed1	FLOAT
+phv00082999.v1	pht001111.v4	AirNRExamMain	bphxage1	NUMERIC	bphxage1	FLOAT
+phv00083000.v1	pht001111.v4	AirNRExamMain	bpmageu1	NUMERIC	bpmageu1	FLOAT
+phv00083001.v1	pht001111.v4	AirNRExamMain	hghchol1	NUMERIC	hghchol1	FLOAT
+phv00083002.v1	pht001111.v4	AirNRExamMain	cholmed1	NUMERIC	cholmed1	FLOAT
+phv00083003.v1	pht001111.v4	AirNRExamMain	cholage1	NUMERIC	cholage1	FLOAT
+phv00083004.v1	pht001111.v4	AirNRExamMain	chlageu1	NUMERIC	chlageu1	FLOAT
+phv00083005.v1	pht001111.v4	AirNRExamMain	diabet1	NUMERIC	diabet1	FLOAT
+phv00083006.v1	pht001111.v4	AirNRExamMain	diabhx1	NUMERIC	diabhx1	FLOAT
+phv00083007.v1	pht001111.v4	AirNRExamMain	dbhxtyp1	NUMERIC	dbhxtyp1	FLOAT
+phv00083008.v1	pht001111.v4	AirNRExamMain	dbage1	NUMERIC	dbage1	FLOAT
+phv00083009.v1	pht001111.v4	AirNRExamMain	dbageu1	NUMERIC	dbageu1	FLOAT
+phv00083010.v1	pht001111.v4	AirNRExamMain	dbinsul1	NUMERIC	dbinsul1	FLOAT
+phv00083011.v1	pht001111.v4	AirNRExamMain	dbpreg1	NUMERIC	dbpreg1	FLOAT
+phv00083012.v1	pht001111.v4	AirNRExamMain	hwt3ylb1	NUMERIC	hwt3ylb1	FLOAT
+phv00083013.v1	pht001111.v4	AirNRExamMain	wt20lb1	NUMERIC	wt20lb1	FLOAT
+phv00083014.v1	pht001111.v4	AirNRExamMain	wt40lb1	NUMERIC	wt40lb1	FLOAT
+phv00083015.v1	pht001111.v4	AirNRExamMain	levwalk1	NUMERIC	levwalk1	FLOAT
+phv00083016.v1	pht001111.v4	AirNRExamMain	hilwalk1	NUMERIC	hilwalk1	FLOAT
+phv00083017.v1	pht001111.v4	AirNRExamMain	stpwalk1	NUMERIC	stpwalk1	FLOAT
+phv00083018.v1	pht001111.v4	AirNRExamMain	preg1	NUMERIC	preg1	FLOAT
+phv00083019.v1	pht001111.v4	AirNRExamMain	pregn1	NUMERIC	pregn1	FLOAT
+phv00083020.v1	pht001111.v4	AirNRExamMain	birthn1	NUMERIC	birthn1	FLOAT
+phv00083021.v1	pht001111.v4	AirNRExamMain	agebrth1	NUMERIC	agebrth1	FLOAT
+phv00083022.v1	pht001111.v4	AirNRExamMain	hystrct1	NUMERIC	hystrct1	FLOAT
+phv00083023.v1	pht001111.v4	AirNRExamMain	hystage1	NUMERIC	hystage1	FLOAT
+phv00083024.v1	pht001111.v4	AirNRExamMain	ovarem1	NUMERIC	ovarem1	FLOAT
+phv00083025.v1	pht001111.v4	AirNRExamMain	ovaage1	NUMERIC	ovaage1	FLOAT
+phv00083026.v1	pht001111.v4	AirNRExamMain	ovaremn1	NUMERIC	ovaremn1	FLOAT
+phv00083027.v1	pht001111.v4	AirNRExamMain	bcpills1	NUMERIC	bcpills1	FLOAT
+phv00083028.v1	pht001111.v4	AirNRExamMain	bpillyr1	NUMERIC	bpillyr1	FLOAT
+phv00083029.v1	pht001111.v4	AirNRExamMain	mnpause1	NUMERIC	mnpause1	FLOAT
+phv00083030.v1	pht001111.v4	AirNRExamMain	menop1	NUMERIC	menop1	FLOAT
+phv00083031.v1	pht001111.v4	AirNRExamMain	mnspmo1	NUMERIC	mnspmo1	FLOAT
+phv00083032.v1	pht001111.v4	AirNRExamMain	mnspyr1	NUMERIC	mnspyr1	FLOAT
+phv00083033.v1	pht001111.v4	AirNRExamMain	prdsnum1	NUMERIC	prdsnum1	FLOAT
+phv00083034.v1	pht001111.v4	AirNRExamMain	menoage1	NUMERIC	menoage1	FLOAT
+phv00083035.v1	pht001111.v4	AirNRExamMain	hrmrep1	NUMERIC	hrmrep1	FLOAT
+phv00083036.v1	pht001111.v4	AirNRExamMain	hrmrepc1	NUMERIC	hrmrepc1	FLOAT
+phv00083037.v1	pht001111.v4	AirNRExamMain	hrmrage1	NUMERIC	hrmrage1	FLOAT
+phv00083038.v1	pht001111.v4	AirNRExamMain	hrmsage1	NUMERIC	hrmsage1	FLOAT
+phv00083039.v1	pht001111.v4	AirNRExamMain	hrmage1c	NUMERIC	hrmage1c	FLOAT
+phv00083040.v1	pht001111.v4	AirNRExamMain	hrmqage1	NUMERIC	hrmqage1	FLOAT
+phv00083041.v1	pht001111.v4	AirNRExamMain	hrmtyp1	NUMERIC	hrmtyp1	FLOAT
+phv00083042.v1	pht001111.v4	AirNRExamMain	legpain1	NUMERIC	legpain1	FLOAT
+phv00083043.v1	pht001111.v4	AirNRExamMain	lprest1	NUMERIC	lprest1	FLOAT
+phv00083044.v1	pht001111.v4	AirNRExamMain	lpcalf1	NUMERIC	lpcalf1	FLOAT
+phv00083045.v1	pht001111.v4	AirNRExamMain	lpuphl1	NUMERIC	lpuphl1	FLOAT
+phv00083046.v1	pht001111.v4	AirNRExamMain	lpnorm1	NUMERIC	lpnorm1	FLOAT
+phv00083047.v1	pht001111.v4	AirNRExamMain	lpdis1	NUMERIC	lpdis1	FLOAT
+phv00083048.v1	pht001111.v4	AirNRExamMain	lpstop1	NUMERIC	lpstop1	FLOAT
+phv00083049.v1	pht001111.v4	AirNRExamMain	lpstnd1	NUMERIC	lpstnd1	FLOAT
+phv00083050.v1	pht001111.v4	AirNRExamMain	lprelv1	NUMERIC	lprelv1	FLOAT
+phv00083051.v1	pht001111.v4	AirNRExamMain	lploc1	NUMERIC	lploc1	FLOAT
+phv00083052.v1	pht001111.v4	AirNRExamMain	swllft1	NUMERIC	swllft1	FLOAT
+phv00083053.v1	pht001111.v4	AirNRExamMain	swllday1	NUMERIC	swllday1	FLOAT
+phv00083054.v1	pht001111.v4	AirNRExamMain	slppllw1	NUMERIC	slppllw1	FLOAT
+phv00083055.v1	pht001111.v4	AirNRExamMain	wakebr1	NUMERIC	wakebr1	FLOAT
+phv00083056.v1	pht001111.v4	AirNRExamMain	fever1	NUMERIC	fever1	FLOAT
+phv00083057.v1	pht001111.v4	AirNRExamMain	coldflu1	NUMERIC	coldflu1	FLOAT
+phv00083058.v1	pht001111.v4	AirNRExamMain	urininf1	NUMERIC	urininf1	FLOAT
+phv00083059.v1	pht001111.v4	AirNRExamMain	allrgy1	NUMERIC	allrgy1	FLOAT
+phv00083060.v1	pht001111.v4	AirNRExamMain	bronch1	NUMERIC	bronch1	FLOAT
+phv00083061.v1	pht001111.v4	AirNRExamMain	sinuinf1	NUMERIC	sinuinf1	FLOAT
+phv00083062.v1	pht001111.v4	AirNRExamMain	pneumo1	NUMERIC	pneumo1	FLOAT
+phv00083063.v1	pht001111.v4	AirNRExamMain	bldgums1	NUMERIC	bldgums1	FLOAT
+phv00083064.v1	pht001111.v4	AirNRExamMain	tthinf1	NUMERIC	tthinf1	FLOAT
+phv00083065.v1	pht001111.v4	AirNRExamMain	gout1	NUMERIC	gout1	FLOAT
+phv00083066.v1	pht001111.v4	AirNRExamMain	arth2wk1	NUMERIC	arth2wk1	FLOAT
+phv00083067.v1	pht001111.v4	AirNRExamMain	aspirin1	NUMERIC	aspirin1	FLOAT
+phv00083068.v1	pht001111.v4	AirNRExamMain	aspsage1	NUMERIC	aspsage1	FLOAT
+phv00083069.v1	pht001111.v4	AirNRExamMain	aspnow1	NUMERIC	aspnow1	FLOAT
+phv00083070.v1	pht001111.v4	AirNRExamMain	aspdays1	NUMERIC	aspdays1	FLOAT
+phv00083071.v1	pht001111.v4	AirNRExamMain	aspeage1	NUMERIC	aspeage1	FLOAT
+phv00083072.v1	pht001111.v4	AirNRExamMain	asacat1c	NUMERIC	asacat1c	FLOAT
+phv00083073.v1	pht001111.v4	AirNRExamMain	gumdis1	NUMERIC	gumdis1	FLOAT
+phv00083074.v1	pht001111.v4	AirNRExamMain	losttth1	NUMERIC	losttth1	FLOAT
+phv00083075.v1	pht001111.v4	AirNRExamMain	tthnum1	NUMERIC	tthnum1	FLOAT
+phv00083076.v1	pht001111.v4	AirNRExamMain	mhxadm1	NUMERIC	mhxadm1	FLOAT
+phv00083077.v1	pht001111.v4	AirNRExamMain	mhxtid1	NUMERIC	mhxtid1	FLOAT
+phv00083078.v1	pht001111.v4	AirNRExamMain	mhxdid1	NUMERIC	mhxdid1	FLOAT
+phv00083079.v1	pht001111.v4	AirNRExamMain	mhxrid1	NUMERIC	mhxrid1	FLOAT
+phv00083080.v1	pht001111.v4	AirNRExamMain	totmed1c	NUMERIC	totmed1c	FLOAT
+phv00083081.v1	pht001111.v4	AirNRExamMain	a2a1c	NUMERIC	a2a1c	FLOAT
+phv00083082.v1	pht001111.v4	AirNRExamMain	a2ad1c	NUMERIC	a2ad1c	FLOAT
+phv00083083.v1	pht001111.v4	AirNRExamMain	ace1c	NUMERIC	ace1c	FLOAT
+phv00083084.v1	pht001111.v4	AirNRExamMain	aced1c	NUMERIC	aced1c	FLOAT
+phv00083085.v1	pht001111.v4	AirNRExamMain	adpi1c	NUMERIC	adpi1c	FLOAT
+phv00083086.v1	pht001111.v4	AirNRExamMain	agdi1c	NUMERIC	agdi1c	FLOAT
+phv00083087.v1	pht001111.v4	AirNRExamMain	alpha1c	NUMERIC	alpha1c	FLOAT
+phv00083088.v1	pht001111.v4	AirNRExamMain	alphad1c	NUMERIC	alphad1c	FLOAT
+phv00083089.v1	pht001111.v4	AirNRExamMain	alzh1c	NUMERIC	alzh1c	FLOAT
+phv00083090.v1	pht001111.v4	AirNRExamMain	amlod1c	NUMERIC	amlod1c	FLOAT
+phv00083091.v1	pht001111.v4	AirNRExamMain	anar1a1c	NUMERIC	anar1a1c	FLOAT
+phv00083092.v1	pht001111.v4	AirNRExamMain	anar1b1c	NUMERIC	anar1b1c	FLOAT
+phv00083093.v1	pht001111.v4	AirNRExamMain	anar1c1c	NUMERIC	anar1c1c	FLOAT
+phv00083094.v1	pht001111.v4	AirNRExamMain	anar31c	NUMERIC	anar31c	FLOAT
+phv00083095.v1	pht001111.v4	AirNRExamMain	apsy1c	NUMERIC	apsy1c	FLOAT
+phv00083096.v1	pht001111.v4	AirNRExamMain	asa1c	NUMERIC	asa1c	FLOAT
+phv00083097.v1	pht001111.v4	AirNRExamMain	basq1c	NUMERIC	basq1c	FLOAT
+phv00083098.v1	pht001111.v4	AirNRExamMain	benzod1c	NUMERIC	benzod1c	FLOAT
+phv00083099.v1	pht001111.v4	AirNRExamMain	beta1c	NUMERIC	beta1c	FLOAT
+phv00083100.v1	pht001111.v4	AirNRExamMain	betad1c	NUMERIC	betad1c	FLOAT
+phv00083101.v1	pht001111.v4	AirNRExamMain	bgnd1c	NUMERIC	bgnd1c	FLOAT
+phv00083102.v1	pht001111.v4	AirNRExamMain	ccb1c	NUMERIC	ccb1c	FLOAT
+phv00083103.v1	pht001111.v4	AirNRExamMain	ccbir1c	NUMERIC	ccbir1c	FLOAT
+phv00083104.v1	pht001111.v4	AirNRExamMain	ccbsr1c	NUMERIC	ccbsr1c	FLOAT
+phv00083105.v1	pht001111.v4	AirNRExamMain	ccbt1c	NUMERIC	ccbt1c	FLOAT
+phv00083106.v1	pht001111.v4	AirNRExamMain	cox21c	NUMERIC	cox21c	FLOAT
+phv00083107.v1	pht001111.v4	AirNRExamMain	dig1c	NUMERIC	dig1c	FLOAT
+phv00083108.v1	pht001111.v4	AirNRExamMain	dihir1c	NUMERIC	dihir1c	FLOAT
+phv00083109.v1	pht001111.v4	AirNRExamMain	dihsr1c	NUMERIC	dihsr1c	FLOAT
+phv00083110.v1	pht001111.v4	AirNRExamMain	dltir1c	NUMERIC	dltir1c	FLOAT
+phv00083111.v1	pht001111.v4	AirNRExamMain	dltsr1c	NUMERIC	dltsr1c	FLOAT
+phv00083112.v1	pht001111.v4	AirNRExamMain	edd1c	NUMERIC	edd1c	FLOAT
+phv00083113.v1	pht001111.v4	AirNRExamMain	estrgn1c	NUMERIC	estrgn1c	FLOAT
+phv00083114.v1	pht001111.v4	AirNRExamMain	fibr1c	NUMERIC	fibr1c	FLOAT
+phv00083115.v1	pht001111.v4	AirNRExamMain	h2b1c	NUMERIC	h2b1c	FLOAT
+phv00083116.v1	pht001111.v4	AirNRExamMain	hctz1c	NUMERIC	hctz1c	FLOAT
+phv00083117.v1	pht001111.v4	AirNRExamMain	hctzk1c	NUMERIC	hctzk1c	FLOAT
+phv00083118.v1	pht001111.v4	AirNRExamMain	hprns1c	NUMERIC	hprns1c	FLOAT
+phv00083119.v1	pht001111.v4	AirNRExamMain	insln1c	NUMERIC	insln1c	FLOAT
+phv00083120.v1	pht001111.v4	AirNRExamMain	iprtr1c	NUMERIC	iprtr1c	FLOAT
+phv00083121.v1	pht001111.v4	AirNRExamMain	istrd1c	NUMERIC	istrd1c	FLOAT
+phv00083122.v1	pht001111.v4	AirNRExamMain	kblkr1c	NUMERIC	kblkr1c	FLOAT
+phv00083123.v1	pht001111.v4	AirNRExamMain	kcl1c	NUMERIC	kcl1c	FLOAT
+phv00083124.v1	pht001111.v4	AirNRExamMain	kspr1c	NUMERIC	kspr1c	FLOAT
+phv00083125.v1	pht001111.v4	AirNRExamMain	loop1c	NUMERIC	loop1c	FLOAT
+phv00083126.v1	pht001111.v4	AirNRExamMain	maoi1c	NUMERIC	maoi1c	FLOAT
+phv00083127.v1	pht001111.v4	AirNRExamMain	mlpd1c	NUMERIC	mlpd1c	FLOAT
+phv00083128.v1	pht001111.v4	AirNRExamMain	niac1c	NUMERIC	niac1c	FLOAT
+phv00083129.v1	pht001111.v4	AirNRExamMain	nifir1c	NUMERIC	nifir1c	FLOAT
+phv00083130.v1	pht001111.v4	AirNRExamMain	nifsr1c	NUMERIC	nifsr1c	FLOAT
+phv00083131.v1	pht001111.v4	AirNRExamMain	nsaid1c	NUMERIC	nsaid1c	FLOAT
+phv00083132.v1	pht001111.v4	AirNRExamMain	ntca1c	NUMERIC	ntca1c	FLOAT
+phv00083133.v1	pht001111.v4	AirNRExamMain	ntg1c	NUMERIC	ntg1c	FLOAT
+phv00083134.v1	pht001111.v4	AirNRExamMain	oaia1c	NUMERIC	oaia1c	FLOAT
+phv00083135.v1	pht001111.v4	AirNRExamMain	ohga1c	NUMERIC	ohga1c	FLOAT
+phv00083136.v1	pht001111.v4	AirNRExamMain	ostrd1c	NUMERIC	ostrd1c	FLOAT
+phv00083137.v1	pht001111.v4	AirNRExamMain	otch2b1c	NUMERIC	otch2b1c	FLOAT
+phv00083138.v1	pht001111.v4	AirNRExamMain	pdei1c	NUMERIC	pdei1c	FLOAT
+phv00083139.v1	pht001111.v4	AirNRExamMain	ppi1c	NUMERIC	ppi1c	FLOAT
+phv00083140.v1	pht001111.v4	AirNRExamMain	prgstn1c	NUMERIC	prgstn1c	FLOAT
+phv00083141.v1	pht001111.v4	AirNRExamMain	prknsn1c	NUMERIC	prknsn1c	FLOAT
+phv00083142.v1	pht001111.v4	AirNRExamMain	prmrn1c	NUMERIC	prmrn1c	FLOAT
+phv00083143.v1	pht001111.v4	AirNRExamMain	prob1c	NUMERIC	prob1c	FLOAT
+phv00083144.v1	pht001111.v4	AirNRExamMain	pvdl1c	NUMERIC	pvdl1c	FLOAT
+phv00083145.v1	pht001111.v4	AirNRExamMain	slf11c	NUMERIC	slf11c	FLOAT
+phv00083146.v1	pht001111.v4	AirNRExamMain	slf21c	NUMERIC	slf21c	FLOAT
+phv00083147.v1	pht001111.v4	AirNRExamMain	sttn1c	NUMERIC	sttn1c	FLOAT
+phv00083148.v1	pht001111.v4	AirNRExamMain	sympth1c	NUMERIC	sympth1c	FLOAT
+phv00083149.v1	pht001111.v4	AirNRExamMain	tca1c	NUMERIC	tca1c	FLOAT
+phv00083150.v1	pht001111.v4	AirNRExamMain	tcap1c	NUMERIC	tcap1c	FLOAT
+phv00083151.v1	pht001111.v4	AirNRExamMain	thry1c	NUMERIC	thry1c	FLOAT
+phv00083152.v1	pht001111.v4	AirNRExamMain	thzd1c	NUMERIC	thzd1c	FLOAT
+phv00083153.v1	pht001111.v4	AirNRExamMain	urcos1c	NUMERIC	urcos1c	FLOAT
+phv00083154.v1	pht001111.v4	AirNRExamMain	vaso1c	NUMERIC	vaso1c	FLOAT
+phv00083155.v1	pht001111.v4	AirNRExamMain	vasod1c	NUMERIC	vasod1c	FLOAT
+phv00083156.v1	pht001111.v4	AirNRExamMain	verir1c	NUMERIC	verir1c	FLOAT
+phv00083157.v1	pht001111.v4	AirNRExamMain	versr1c	NUMERIC	versr1c	FLOAT
+phv00083158.v1	pht001111.v4	AirNRExamMain	warf1c	NUMERIC	warf1c	FLOAT
+phv00083159.v1	pht001111.v4	AirNRExamMain	wtls1c	NUMERIC	wtls1c	FLOAT
+phv00083160.v1	pht001111.v4	AirNRExamMain	xoi1c	NUMERIC	xoi1c	FLOAT
+phv00083161.v1	pht001111.v4	AirNRExamMain	diur1c	NUMERIC	diur1c	FLOAT
+phv00083162.v1	pht001111.v4	AirNRExamMain	lipid1c	NUMERIC	lipid1c	FLOAT
+phv00083163.v1	pht001111.v4	AirNRExamMain	htnmed1c	NUMERIC	htnmed1c	FLOAT
+phv00083164.v1	pht001111.v4	AirNRExamMain	nhdmo1	NUMERIC	nhdmo1	FLOAT
+phv00083165.v1	pht001111.v4	AirNRExamMain	nhdyrs1	NUMERIC	nhdyrs1	FLOAT
+phv00083166.v1	pht001111.v4	AirNRExamMain	nhdblks1	NUMERIC	nhdblks1	FLOAT
+phv00083167.v1	pht001111.v4	AirNRExamMain	nclose1	NUMERIC	nclose1	FLOAT
+phv00083168.v1	pht001111.v4	AirNRExamMain	nhelp1	NUMERIC	nhelp1	FLOAT
+phv00083169.v1	pht001111.v4	AirNRExamMain	ndgalng1	NUMERIC	ndgalng1	FLOAT
+phv00083170.v1	pht001111.v4	AirNRExamMain	ntrust1	NUMERIC	ntrust1	FLOAT
+phv00083171.v1	pht001111.v4	AirNRExamMain	nvalues1	NUMERIC	nvalues1	FLOAT
+phv00083172.v1	pht001111.v4	AirNRExamMain	nsafe1	NUMERIC	nsafe1	FLOAT
+phv00083173.v1	pht001111.v4	AirNRExamMain	nnoise1	NUMERIC	nnoise1	FLOAT
+phv00083174.v1	pht001111.v4	AirNRExamMain	ntraf1	NUMERIC	ntraf1	FLOAT
+phv00083175.v1	pht001111.v4	AirNRExamMain	nlfshop1	NUMERIC	nlfshop1	FLOAT
+phv00083176.v1	pht001111.v4	AirNRExamMain	nlparks1	NUMERIC	nlparks1	FLOAT
+phv00083177.v1	pht001111.v4	AirNRExamMain	ntrash1	NUMERIC	ntrash1	FLOAT
+phv00083178.v1	pht001111.v4	AirNRExamMain	nsdwlk1	NUMERIC	nsdwlk1	FLOAT
+phv00083179.v1	pht001111.v4	AirNRExamMain	nviolen1	NUMERIC	nviolen1	FLOAT
+phv00083180.v1	pht001111.v4	AirNRExamMain	napark1	NUMERIC	napark1	FLOAT
+phv00083181.v1	pht001111.v4	AirNRExamMain	nafield1	NUMERIC	nafield1	FLOAT
+phv00083182.v1	pht001111.v4	AirNRExamMain	napool1	NUMERIC	napool1	FLOAT
+phv00083183.v1	pht001111.v4	AirNRExamMain	naschl1	NUMERIC	naschl1	FLOAT
+phv00083184.v1	pht001111.v4	AirNRExamMain	nagym1	NUMERIC	nagym1	FLOAT
+phv00083185.v1	pht001111.v4	AirNRExamMain	naymca1	NUMERIC	naymca1	FLOAT
+phv00083186.v1	pht001111.v4	AirNRExamMain	nabike1	NUMERIC	nabike1	FLOAT
+phv00083187.v1	pht001111.v4	AirNRExamMain	nasdwlk1	NUMERIC	nasdwlk1	FLOAT
+phv00083188.v1	pht001111.v4	AirNRExamMain	napleas1	NUMERIC	napleas1	FLOAT
+phv00083189.v1	pht001111.v4	AirNRExamMain	naattr1	NUMERIC	naattr1	FLOAT
+phv00083190.v1	pht001111.v4	AirNRExamMain	natrash1	NUMERIC	natrash1	FLOAT
+phv00083191.v1	pht001111.v4	AirNRExamMain	nafrnd1	NUMERIC	nafrnd1	FLOAT
+phv00083192.v1	pht001111.v4	AirNRExamMain	nashade1	NUMERIC	nashade1	FLOAT
+phv00083193.v1	pht001111.v4	AirNRExamMain	natraf1	NUMERIC	natraf1	FLOAT
+phv00083194.v1	pht001111.v4	AirNRExamMain	nanoise1	NUMERIC	nanoise1	FLOAT
+phv00083195.v1	pht001111.v4	AirNRExamMain	nawalk1	NUMERIC	nawalk1	FLOAT
+phv00083196.v1	pht001111.v4	AirNRExamMain	nastore1	NUMERIC	nastore1	FLOAT
+phv00083197.v1	pht001111.v4	AirNRExamMain	nastrt1	NUMERIC	nastrt1	FLOAT
+phv00083198.v1	pht001111.v4	AirNRExamMain	naothwk1	NUMERIC	naothwk1	FLOAT
+phv00083199.v1	pht001111.v4	AirNRExamMain	naothex1	NUMERIC	naothex1	FLOAT
+phv00083200.v1	pht001111.v4	AirNRExamMain	nasafe1	NUMERIC	nasafe1	FLOAT
+phv00083201.v1	pht001111.v4	AirNRExamMain	naviol1	NUMERIC	naviol1	FLOAT
+phv00083202.v1	pht001111.v4	AirNRExamMain	nafruit1	NUMERIC	nafruit1	FLOAT
+phv00083203.v1	pht001111.v4	AirNRExamMain	nalowft1	NUMERIC	nalowft1	FLOAT
+phv00083204.v1	pht001111.v4	AirNRExamMain	nafast1	NUMERIC	nafast1	FLOAT
+phv00083205.v1	pht001111.v4	AirNRExamMain	nassday1	NUMERIC	nassday1	FLOAT
+phv00083206.v1	pht001111.v4	AirNRExamMain	nasseve1	NUMERIC	nasseve1	FLOAT
+phv00083207.v1	pht001111.v4	AirNRExamMain	nassnit1	NUMERIC	nassnit1	FLOAT
+phv00083208.v1	pht001111.v4	AirNRExamMain	namfday1	NUMERIC	namfday1	FLOAT
+phv00083209.v1	pht001111.v4	AirNRExamMain	namfeve1	NUMERIC	namfeve1	FLOAT
+phv00083210.v1	pht001111.v4	AirNRExamMain	namfnit1	NUMERIC	namfnit1	FLOAT
+phv00083211.v1	pht001111.v4	AirNRExamMain	ncohes1c	NUMERIC	ncohes1c	FLOAT
+phv00083212.v1	pht001111.v4	AirNRExamMain	nprob1c	NUMERIC	nprob1c	FLOAT
+phv00083213.v1	pht001111.v4	AirNRExamMain	nhdadm1	NUMERIC	nhdadm1	FLOAT
+phv00083214.v1	pht001111.v4	AirNRExamMain	rgnbth1c	NUMERIC	rgnbth1c	FLOAT
+phv00083215.v1	pht001111.v4	AirNRExamMain	hctryo1c	STRING	hctryo1c	STRING
+phv00083216.v1	pht001111.v4	AirNRExamMain	yrsus1	NUMERIC	yrsus1	FLOAT
+phv00083217.v1	pht001111.v4	AirNRExamMain	lngeng1	NUMERIC	lngeng1	FLOAT
+phv00083218.v1	pht001111.v4	AirNRExamMain	lngsp1	NUMERIC	lngsp1	FLOAT
+phv00083219.v1	pht001111.v4	AirNRExamMain	lngcan1	NUMERIC	lngcan1	FLOAT
+phv00083220.v1	pht001111.v4	AirNRExamMain	lngman1	NUMERIC	lngman1	FLOAT
+phv00083221.v1	pht001111.v4	AirNRExamMain	lngoth1	NUMERIC	lngoth1	FLOAT
+phv00083222.v1	pht001111.v4	AirNRExamMain	marital1	NUMERIC	marital1	FLOAT
+phv00083223.v1	pht001111.v4	AirNRExamMain	educ1	NUMERIC	educ1	FLOAT
+phv00083224.v1	pht001111.v4	AirNRExamMain	curjob1	NUMERIC	curjob1	FLOAT
+phv00083225.v1	pht001111.v4	AirNRExamMain	homemkr1	NUMERIC	homemkr1	FLOAT
+phv00083226.v1	pht001111.v4	AirNRExamMain	income1	NUMERIC	income1	FLOAT
+phv00083227.v1	pht001111.v4	AirNRExamMain	numhhld1	NUMERIC	numhhld1	FLOAT
+phv00083228.v1	pht001111.v4	AirNRExamMain	nhhldc1	NUMERIC	nhhldc1	FLOAT
+phv00083229.v1	pht001111.v4	AirNRExamMain	nhhlde1	NUMERIC	nhhlde1	FLOAT
+phv00083230.v1	pht001111.v4	AirNRExamMain	hometyp1	NUMERIC	hometyp1	FLOAT
+phv00083231.v1	pht001111.v4	AirNRExamMain	invest1	NUMERIC	invest1	FLOAT
+phv00083232.v1	pht001111.v4	AirNRExamMain	ownland1	NUMERIC	ownland1	FLOAT
+phv00083233.v1	pht001111.v4	AirNRExamMain	owncar1	NUMERIC	owncar1	FLOAT
+phv00083234.v1	pht001111.v4	AirNRExamMain	medcare1	NUMERIC	medcare1	FLOAT
+phv00083235.v1	pht001111.v4	AirNRExamMain	hiprv1	NUMERIC	hiprv1	FLOAT
+phv00083236.v1	pht001111.v4	AirNRExamMain	himdcr1	NUMERIC	himdcr1	FLOAT
+phv00083237.v1	pht001111.v4	AirNRExamMain	himdcd1	NUMERIC	himdcd1	FLOAT
+phv00083238.v1	pht001111.v4	AirNRExamMain	himil1	NUMERIC	himil1	FLOAT
+phv00083239.v1	pht001111.v4	AirNRExamMain	hinone1	NUMERIC	hinone1	FLOAT
+phv00083240.v1	pht001111.v4	AirNRExamMain	hioth1	NUMERIC	hioth1	FLOAT
+phv00083241.v1	pht001111.v4	AirNRExamMain	cig1c	NUMERIC	cig1c	FLOAT
+phv00083242.v1	pht001111.v4	AirNRExamMain	pkyrs1c	NUMERIC	pkyrs1c	FLOAT
+phv00083243.v1	pht001111.v4	AirNRExamMain	evsmk1	NUMERIC	evsmk1	FLOAT
+phv00083244.v1	pht001111.v4	AirNRExamMain	agesmk1	NUMERIC	agesmk1	FLOAT
+phv00083245.v1	pht001111.v4	AirNRExamMain	cursmk1	NUMERIC	cursmk1	FLOAT
+phv00083246.v1	pht001111.v4	AirNRExamMain	agequit1	NUMERIC	agequit1	FLOAT
+phv00083247.v1	pht001111.v4	AirNRExamMain	cigsday1	NUMERIC	cigsday1	FLOAT
+phv00083248.v1	pht001111.v4	AirNRExamMain	othtob1	NUMERIC	othtob1	FLOAT
+phv00083249.v1	pht001111.v4	AirNRExamMain	cigar1	NUMERIC	cigar1	FLOAT
+phv00083250.v1	pht001111.v4	AirNRExamMain	cgr1c	NUMERIC	cgr1c	FLOAT
+phv00083251.v1	pht001111.v4	AirNRExamMain	cgrage1	NUMERIC	cgrage1	FLOAT
+phv00083252.v1	pht001111.v4	AirNRExamMain	cgrcur1	NUMERIC	cgrcur1	FLOAT
+phv00083253.v1	pht001111.v4	AirNRExamMain	cgrageq1	NUMERIC	cgrageq1	FLOAT
+phv00083254.v1	pht001111.v4	AirNRExamMain	cgrday1	NUMERIC	cgrday1	FLOAT
+phv00083255.v1	pht001111.v4	AirNRExamMain	pip1c	NUMERIC	pip1c	FLOAT
+phv00083256.v1	pht001111.v4	AirNRExamMain	pipyrs1c	NUMERIC	pipyrs1c	FLOAT
+phv00083257.v1	pht001111.v4	AirNRExamMain	pipe1	NUMERIC	pipe1	FLOAT
+phv00083258.v1	pht001111.v4	AirNRExamMain	pipage1	NUMERIC	pipage1	FLOAT
+phv00083259.v1	pht001111.v4	AirNRExamMain	pipcur1	NUMERIC	pipcur1	FLOAT
+phv00083260.v1	pht001111.v4	AirNRExamMain	pipageq1	NUMERIC	pipageq1	FLOAT
+phv00083261.v1	pht001111.v4	AirNRExamMain	pipday1	NUMERIC	pipday1	FLOAT
+phv00083262.v1	pht001111.v4	AirNRExamMain	chew1c	NUMERIC	chew1c	FLOAT
+phv00083263.v1	pht001111.v4	AirNRExamMain	chwyrs1c	NUMERIC	chwyrs1c	FLOAT
+phv00083264.v1	pht001111.v4	AirNRExamMain	chew1	NUMERIC	chew1	FLOAT
+phv00083265.v1	pht001111.v4	AirNRExamMain	chwage1	NUMERIC	chwage1	FLOAT
+phv00083266.v1	pht001111.v4	AirNRExamMain	chwcur1	NUMERIC	chwcur1	FLOAT
+phv00083267.v1	pht001111.v4	AirNRExamMain	chwageq1	NUMERIC	chwageq1	FLOAT
+phv00083268.v1	pht001111.v4	AirNRExamMain	chwday1	NUMERIC	chwday1	FLOAT
+phv00083269.v1	pht001111.v4	AirNRExamMain	snf1c	NUMERIC	snf1c	FLOAT
+phv00083270.v1	pht001111.v4	AirNRExamMain	snfyrs1c	NUMERIC	snfyrs1c	FLOAT
+phv00083271.v1	pht001111.v4	AirNRExamMain	snuff1	NUMERIC	snuff1	FLOAT
+phv00083272.v1	pht001111.v4	AirNRExamMain	snfage1	NUMERIC	snfage1	FLOAT
+phv00083273.v1	pht001111.v4	AirNRExamMain	snfcur1	NUMERIC	snfcur1	FLOAT
+phv00083274.v1	pht001111.v4	AirNRExamMain	snfageq1	NUMERIC	snfageq1	FLOAT
+phv00083275.v1	pht001111.v4	AirNRExamMain	snfday1	NUMERIC	snfday1	FLOAT
+phv00083276.v1	pht001111.v4	AirNRExamMain	shndsmk1	NUMERIC	shndsmk1	FLOAT
+phv00083277.v1	pht001111.v4	AirNRExamMain	alc1c	NUMERIC	alc1c	FLOAT
+phv00083278.v1	pht001111.v4	AirNRExamMain	yrsalc1c	NUMERIC	yrsalc1c	FLOAT
+phv00083279.v1	pht001111.v4	AirNRExamMain	alcwk1c	NUMERIC	alcwk1c	FLOAT
+phv00083280.v1	pht001111.v4	AirNRExamMain	alcohol1	NUMERIC	alcohol1	FLOAT
+phv00083281.v1	pht001111.v4	AirNRExamMain	alcage1	NUMERIC	alcage1	FLOAT
+phv00083282.v1	pht001111.v4	AirNRExamMain	curalc1	NUMERIC	curalc1	FLOAT
+phv00083283.v1	pht001111.v4	AirNRExamMain	yrsalcp1	NUMERIC	yrsalcp1	FLOAT
+phv00083284.v1	pht001111.v4	AirNRExamMain	wine1	NUMERIC	wine1	FLOAT
+phv00083285.v1	pht001111.v4	AirNRExamMain	beer1	NUMERIC	beer1	FLOAT
+phv00083286.v1	pht001111.v4	AirNRExamMain	hardliq1	NUMERIC	hardliq1	FLOAT
+phv00083287.v1	pht001111.v4	AirNRExamMain	othalc1	NUMERIC	othalc1	FLOAT
+phv00083288.v1	pht001111.v4	AirNRExamMain	alcwkp1	NUMERIC	alcwkp1	FLOAT
+phv00083289.v1	pht001111.v4	AirNRExamMain	yrsalcc1	NUMERIC	yrsalcc1	FLOAT
+phv00083290.v1	pht001111.v4	AirNRExamMain	alcwkc1	NUMERIC	alcwkc1	FLOAT
+phv00083291.v1	pht001111.v4	AirNRExamMain	rwinewk1	NUMERIC	rwinewk1	FLOAT
+phv00083292.v1	pht001111.v4	AirNRExamMain	wwinewk1	NUMERIC	wwinewk1	FLOAT
+phv00083293.v1	pht001111.v4	AirNRExamMain	beerwk1	NUMERIC	beerwk1	FLOAT
+phv00083294.v1	pht001111.v4	AirNRExamMain	liqwk1	NUMERIC	liqwk1	FLOAT
+phv00083295.v1	pht001111.v4	AirNRExamMain	alc24hr1	NUMERIC	alc24hr1	FLOAT
+phv00083296.v1	pht001111.v4	AirNRExamMain	highalc1	NUMERIC	highalc1	FLOAT
+phv00083297.v1	pht001111.v4	AirNRExamMain	phxloch1	NUMERIC	phxloch1	FLOAT
+phv00083298.v1	pht001111.v4	AirNRExamMain	phxlocc1	NUMERIC	phxlocc1	FLOAT
+phv00083299.v1	pht001111.v4	AirNRExamMain	bldeasy1	NUMERIC	bldeasy1	FLOAT
+phv00083300.v1	pht001111.v4	AirNRExamMain	coagdis1	NUMERIC	coagdis1	FLOAT
+phv00083301.v1	pht001111.v4	AirNRExamMain	faint1	NUMERIC	faint1	FLOAT
+phv00083302.v1	pht001111.v4	AirNRExamMain	diabins1	NUMERIC	diabins1	FLOAT
+phv00083303.v1	pht001111.v4	AirNRExamMain	lastdrk1	NUMERIC	lastdrk1	FLOAT
+phv00083304.v1	pht001111.v4	AirNRExamMain	phsttm1	STRING	phsttm1	STRING
+phv00083305.v1	pht001111.v4	AirNRExamMain	bldrawn1	NUMERIC	bldrawn1	FLOAT
+phv00083306.v1	pht001111.v4	AirNRExamMain	trnqsec1	NUMERIC	trnqsec1	FLOAT
+phv00083307.v1	pht001111.v4	AirNRExamMain	phendtm1	STRING	phendtm1	STRING
+phv00083308.v1	pht001111.v4	AirNRExamMain	qlvnpct1	NUMERIC	qlvnpct1	FLOAT
+phv00083309.v1	pht001111.v4	AirNRExamMain	vnclps1	NUMERIC	vnclps1	FLOAT
+phv00083310.v1	pht001111.v4	AirNRExamMain	hematom1	NUMERIC	hematom1	FLOAT
+phv00083311.v1	pht001111.v4	AirNRExamMain	multstk1	NUMERIC	multstk1	FLOAT
+phv00083312.v1	pht001111.v4	AirNRExamMain	hrdget1	NUMERIC	hrdget1	FLOAT
+phv00083313.v1	pht001111.v4	AirNRExamMain	leakage1	NUMERIC	leakage1	FLOAT
+phv00083314.v1	pht001111.v4	AirNRExamMain	urinfil1	NUMERIC	urinfil1	FLOAT
+phv00083315.v1	pht001111.v4	AirNRExamMain	phlbcqc1	NUMERIC	phlbcqc1	FLOAT
+phv00083316.v1	pht001111.v4	AirNRExamMain	q01hlcn1	NUMERIC	q01hlcn1	FLOAT
+phv00083317.v1	pht001111.v4	AirNRExamMain	q01hlcm1	NUMERIC	q01hlcm1	FLOAT
+phv00083318.v1	pht001111.v4	AirNRExamMain	q02hmcn1	NUMERIC	q02hmcn1	FLOAT
+phv00083319.v1	pht001111.v4	AirNRExamMain	q02hmcm1	NUMERIC	q02hmcm1	FLOAT
+phv00083320.v1	pht001111.v4	AirNRExamMain	hsemn1c	NUMERIC	hsemn1c	FLOAT
+phv00083321.v1	pht001111.v4	AirNRExamMain	hsemt1c	NUMERIC	hsemt1c	FLOAT
+phv00083322.v1	pht001111.v4	AirNRExamMain	q03ymcn1	NUMERIC	q03ymcn1	FLOAT
+phv00083323.v1	pht001111.v4	AirNRExamMain	q03ymcm1	NUMERIC	q03ymcm1	FLOAT
+phv00083324.v1	pht001111.v4	AirNRExamMain	q04yvcn1	NUMERIC	q04yvcn1	FLOAT
+phv00083325.v1	pht001111.v4	AirNRExamMain	q04yvcm1	NUMERIC	q04yvcm1	FLOAT
+phv00083326.v1	pht001111.v4	AirNRExamMain	yrdmn1c	NUMERIC	yrdmn1c	FLOAT
+phv00083327.v1	pht001111.v4	AirNRExamMain	yrdmt1c	NUMERIC	yrdmt1c	FLOAT
+phv00083328.v1	pht001111.v4	AirNRExamMain	q05olcn1	NUMERIC	q05olcn1	FLOAT
+phv00083329.v1	pht001111.v4	AirNRExamMain	q05olcm1	NUMERIC	q05olcm1	FLOAT
+phv00083330.v1	pht001111.v4	AirNRExamMain	q06omcn1	NUMERIC	q06omcn1	FLOAT
+phv00083331.v1	pht001111.v4	AirNRExamMain	q06omcm1	NUMERIC	q06omcm1	FLOAT
+phv00083332.v1	pht001111.v4	AirNRExamMain	caremn1c	NUMERIC	caremn1c	FLOAT
+phv00083333.v1	pht001111.v4	AirNRExamMain	caremt1c	NUMERIC	caremt1c	FLOAT
+phv00083334.v1	pht001111.v4	AirNRExamMain	q07tlcn1	NUMERIC	q07tlcn1	FLOAT
+phv00083335.v1	pht001111.v4	AirNRExamMain	q07tlcm1	NUMERIC	q07tlcm1	FLOAT
+phv00083336.v1	pht001111.v4	AirNRExamMain	trnmn1c	NUMERIC	trnmn1c	FLOAT
+phv00083337.v1	pht001111.v4	AirNRExamMain	trnmt1c	NUMERIC	trnmt1c	FLOAT
+phv00083338.v1	pht001111.v4	AirNRExamMain	q08wmcn1	NUMERIC	q08wmcn1	FLOAT
+phv00083339.v1	pht001111.v4	AirNRExamMain	q08wmcm1	NUMERIC	q08wmcm1	FLOAT
+phv00083340.v1	pht001111.v4	AirNRExamMain	q09wmcn1	NUMERIC	q09wmcn1	FLOAT
+phv00083341.v1	pht001111.v4	AirNRExamMain	q09wmcm1	NUMERIC	q09wmcm1	FLOAT
+phv00083342.v1	pht001111.v4	AirNRExamMain	walkmn1c	NUMERIC	walkmn1c	FLOAT
+phv00083343.v1	pht001111.v4	AirNRExamMain	walkmt1c	NUMERIC	walkmt1c	FLOAT
+phv00083344.v1	pht001111.v4	AirNRExamMain	q10smcn1	NUMERIC	q10smcn1	FLOAT
+phv00083345.v1	pht001111.v4	AirNRExamMain	q10smcm1	NUMERIC	q10smcm1	FLOAT
+phv00083346.v1	pht001111.v4	AirNRExamMain	q11svcn1	NUMERIC	q11svcn1	FLOAT
+phv00083347.v1	pht001111.v4	AirNRExamMain	q11svcm1	NUMERIC	q11svcm1	FLOAT
+phv00083348.v1	pht001111.v4	AirNRExamMain	q12svcn1	NUMERIC	q12svcn1	FLOAT
+phv00083349.v1	pht001111.v4	AirNRExamMain	q12svcm1	NUMERIC	q12svcm1	FLOAT
+phv00083350.v1	pht001111.v4	AirNRExamMain	q13smcn1	NUMERIC	q13smcn1	FLOAT
+phv00083351.v1	pht001111.v4	AirNRExamMain	q13smcm1	NUMERIC	q13smcm1	FLOAT
+phv00083352.v1	pht001111.v4	AirNRExamMain	sptnmn1c	NUMERIC	sptnmn1c	FLOAT
+phv00083353.v1	pht001111.v4	AirNRExamMain	sptnmt1c	NUMERIC	sptnmt1c	FLOAT
+phv00083354.v1	pht001111.v4	AirNRExamMain	q14cmcn1	NUMERIC	q14cmcn1	FLOAT
+phv00083355.v1	pht001111.v4	AirNRExamMain	q14cmcm1	NUMERIC	q14cmcm1	FLOAT
+phv00083356.v1	pht001111.v4	AirNRExamMain	q15cvcn1	NUMERIC	q15cvcn1	FLOAT
+phv00083357.v1	pht001111.v4	AirNRExamMain	q15cvcm1	NUMERIC	q15cvcm1	FLOAT
+phv00083358.v1	pht001111.v4	AirNRExamMain	condmn1c	NUMERIC	condmn1c	FLOAT
+phv00083359.v1	pht001111.v4	AirNRExamMain	condmt1c	NUMERIC	condmt1c	FLOAT
+phv00083360.v1	pht001111.v4	AirNRExamMain	q16ilcn1	NUMERIC	q16ilcn1	FLOAT
+phv00083361.v1	pht001111.v4	AirNRExamMain	q16ilcm1	NUMERIC	q16ilcm1	FLOAT
+phv00083362.v1	pht001111.v4	AirNRExamMain	q17ilcn1	NUMERIC	q17ilcn1	FLOAT
+phv00083363.v1	pht001111.v4	AirNRExamMain	q17ilcm1	NUMERIC	q17ilcm1	FLOAT
+phv00083364.v1	pht001111.v4	AirNRExamMain	leismn1c	NUMERIC	leismn1c	FLOAT
+phv00083365.v1	pht001111.v4	AirNRExamMain	leismt1c	NUMERIC	leismt1c	FLOAT
+phv00083366.v1	pht001111.v4	AirNRExamMain	q18jyn1	NUMERIC	q18jyn1	FLOAT
+phv00083367.v1	pht001111.v4	AirNRExamMain	q19wcn1	NUMERIC	q19wcn1	FLOAT
+phv00083368.v1	pht001111.v4	AirNRExamMain	q20jlcn1	NUMERIC	q20jlcn1	FLOAT
+phv00083369.v1	pht001111.v4	AirNRExamMain	q20jlcm1	NUMERIC	q20jlcm1	FLOAT
+phv00083370.v1	pht001111.v4	AirNRExamMain	q21jlcn1	NUMERIC	q21jlcn1	FLOAT
+phv00083371.v1	pht001111.v4	AirNRExamMain	q21jlcm1	NUMERIC	q21jlcm1	FLOAT
+phv00083372.v1	pht001111.v4	AirNRExamMain	q22jmcn1	NUMERIC	q22jmcn1	FLOAT
+phv00083373.v1	pht001111.v4	AirNRExamMain	q22jmcm1	NUMERIC	q22jmcm1	FLOAT
+phv00083374.v1	pht001111.v4	AirNRExamMain	q23jvcn1	NUMERIC	q23jvcn1	FLOAT
+phv00083375.v1	pht001111.v4	AirNRExamMain	q23jvcm1	NUMERIC	q23jvcm1	FLOAT
+phv00083376.v1	pht001111.v4	AirNRExamMain	occmn1c	NUMERIC	occmn1c	FLOAT
+phv00083377.v1	pht001111.v4	AirNRExamMain	occmt1c	NUMERIC	occmt1c	FLOAT
+phv00083378.v1	pht001111.v4	AirNRExamMain	q24uyn1	NUMERIC	q24uyn1	FLOAT
+phv00083379.v1	pht001111.v4	AirNRExamMain	q25ulcn1	NUMERIC	q25ulcn1	FLOAT
+phv00083380.v1	pht001111.v4	AirNRExamMain	q25ulcm1	NUMERIC	q25ulcm1	FLOAT
+phv00083381.v1	pht001111.v4	AirNRExamMain	q26umcn1	NUMERIC	q26umcn1	FLOAT
+phv00083382.v1	pht001111.v4	AirNRExamMain	q26umcm1	NUMERIC	q26umcm1	FLOAT
+phv00083383.v1	pht001111.v4	AirNRExamMain	q27uvcn1	NUMERIC	q27uvcn1	FLOAT
+phv00083384.v1	pht001111.v4	AirNRExamMain	q27uvcm1	NUMERIC	q27uvcm1	FLOAT
+phv00083385.v1	pht001111.v4	AirNRExamMain	volmn1c	NUMERIC	volmn1c	FLOAT
+phv00083386.v1	pht001111.v4	AirNRExamMain	volmt1c	NUMERIC	volmt1c	FLOAT
+phv00083387.v2	pht001111.v4	AirNRExamMain	pahrdy1c	NUMERIC	pahrdy1c	FLOAT
+phv00083388.v1	pht001111.v4	AirNRExamMain	wkhrdy1c	NUMERIC	wkhrdy1c	FLOAT
+phv00083389.v1	pht001111.v4	AirNRExamMain	exercm1c	NUMERIC	exercm1c	FLOAT
+phv00083390.v1	pht001111.v4	AirNRExamMain	pamcm1c	NUMERIC	pamcm1c	FLOAT
+phv00083391.v1	pht001111.v4	AirNRExamMain	pavcm1c	NUMERIC	pavcm1c	FLOAT
+phv00083392.v1	pht001111.v4	AirNRExamMain	pamvcm1c	NUMERIC	pamvcm1c	FLOAT
+phv00083393.v1	pht001111.v4	AirNRExamMain	wlkpace1	NUMERIC	wlkpace1	FLOAT
+phv00083394.v1	pht001111.v4	AirNRExamMain	pactadm1	NUMERIC	pactadm1	FLOAT
+phv00083395.v1	pht001111.v4	AirNRExamMain	dmapnum1	NUMERIC	dmapnum1	FLOAT
+phv00083396.v1	pht001111.v4	AirNRExamMain	armcm1	NUMERIC	armcm1	FLOAT
+phv00083397.v1	pht001111.v4	AirNRExamMain	cuffsz1	NUMERIC	cuffsz1	FLOAT
+phv00083398.v1	pht001111.v4	AirNRExamMain	cufffre1	NUMERIC	cufffre1	FLOAT
+phv00083399.v1	pht001111.v4	AirNRExamMain	s1bp1	NUMERIC	s1bp1	FLOAT
+phv00083400.v1	pht001111.v4	AirNRExamMain	d1bp1	NUMERIC	d1bp1	FLOAT
+phv00083401.v1	pht001111.v4	AirNRExamMain	hr1dina1	NUMERIC	hr1dina1	FLOAT
+phv00083402.v1	pht001111.v4	AirNRExamMain	bptm1	STRING	bptm1	STRING
+phv00083403.v1	pht001111.v4	AirNRExamMain	s2bp1	NUMERIC	s2bp1	FLOAT
+phv00083404.v1	pht001111.v4	AirNRExamMain	d2bp1	NUMERIC	d2bp1	FLOAT
+phv00083405.v1	pht001111.v4	AirNRExamMain	hr2dina1	NUMERIC	hr2dina1	FLOAT
+phv00083406.v1	pht001111.v4	AirNRExamMain	s3bp1	NUMERIC	s3bp1	FLOAT
+phv00083407.v1	pht001111.v4	AirNRExamMain	d3bp1	NUMERIC	d3bp1	FLOAT
+phv00083408.v1	pht001111.v4	AirNRExamMain	hr3dina1	NUMERIC	hr3dina1	FLOAT
+phv00083409.v1	pht001111.v4	AirNRExamMain	rmtempf1	NUMERIC	rmtempf1	FLOAT
+phv00083410.v1	pht001111.v4	AirNRExamMain	sbp1c	NUMERIC	sbp1c	FLOAT
+phv00083411.v1	pht001111.v4	AirNRExamMain	dbp1c	NUMERIC	dbp1c	FLOAT
+phv00083412.v1	pht001111.v4	AirNRExamMain	hrdina1c	NUMERIC	hrdina1c	FLOAT
+phv00083413.v1	pht001111.v4	AirNRExamMain	slpwkhr1	NUMERIC	slpwkhr1	FLOAT
+phv00083414.v1	pht001111.v4	AirNRExamMain	falslhr1	NUMERIC	falslhr1	FLOAT
+phv00083415.v1	pht001111.v4	AirNRExamMain	oftsnr1	NUMERIC	oftsnr1	FLOAT
+phv00083416.v1	pht001111.v4	AirNRExamMain	oftsnrt1	NUMERIC	oftsnrt1	FLOAT
+phv00083417.v1	pht001111.v4	AirNRExamMain	trblslp1	NUMERIC	trblslp1	FLOAT
+phv00083418.v1	pht001111.v4	AirNRExamMain	wknight1	NUMERIC	wknight1	FLOAT
+phv00083419.v1	pht001111.v4	AirNRExamMain	wkearly1	NUMERIC	wkearly1	FLOAT
+phv00083420.v1	pht001111.v4	AirNRExamMain	slpyday1	NUMERIC	slpyday1	FLOAT
+phv00083421.v1	pht001111.v4	AirNRExamMain	dozread1	NUMERIC	dozread1	FLOAT
+phv00083422.v1	pht001111.v4	AirNRExamMain	dztv1	NUMERIC	dztv1	FLOAT
+phv00083423.v1	pht001111.v4	AirNRExamMain	dzpubpl1	NUMERIC	dzpubpl1	FLOAT
+phv00083424.v1	pht001111.v4	AirNRExamMain	dzrdcar1	NUMERIC	dzrdcar1	FLOAT
+phv00083425.v1	pht001111.v4	AirNRExamMain	dzrest1	NUMERIC	dzrest1	FLOAT
+phv00083426.v1	pht001111.v4	AirNRExamMain	dztalk1	NUMERIC	dztalk1	FLOAT
+phv00083427.v1	pht001111.v4	AirNRExamMain	dzlnch1	NUMERIC	dzlnch1	FLOAT
+phv00083428.v1	pht001111.v4	AirNRExamMain	dzcarst1	NUMERIC	dzcarst1	FLOAT
+phv00083429.v1	pht001111.v4	AirNRExamMain	dzdinnr1	NUMERIC	dzdinnr1	FLOAT
+phv00083430.v1	pht001111.v4	AirNRExamMain	dzdrive1	NUMERIC	dzdrive1	FLOAT
+phv00083431.v1	pht001111.v4	AirNRExamMain	apnea1	NUMERIC	apnea1	FLOAT
+phv00083432.v1	pht001111.v4	AirNRExamMain	insomn1	NUMERIC	insomn1	FLOAT
+phv00083433.v1	pht001111.v4	AirNRExamMain	rstleg1	NUMERIC	rstleg1	FLOAT
+phv00083434.v1	pht001111.v4	AirNRExamMain	slpadm1	NUMERIC	slpadm1	FLOAT
+phv00083435.v1	pht001111.v4	AirNRExamMain	ucreat1	NUMERIC	ucreat1	FLOAT
+phv00083436.v1	pht001111.v4	AirNRExamMain	ualbumn1	NUMERIC	ualbumn1	FLOAT
+phv00083437.v1	pht001111.v4	AirNRExamMain	ualbcre1	NUMERIC	ualbcre1	FLOAT
+phv00083438.v2	pht001111.v4	AirNRExamMain	ualbcre1t	NUMERIC	ualbcre1t	FLOAT
+phv00083439.v1	pht001111.v4	AirNRExamMain	uabcat1c	NUMERIC	uabcat1c	FLOAT
+phv00111942.v1	pht001111.v4	AirNRExamMain	rloca	NUMERIC	rloca	FLOAT
+phv00159568.v4	pht002239.v4	Subject_Phenotypes	SUBJECT_ID	string	SUBJECT_ID	STRING
+phv00159569.v4	pht002239.v4	Subject_Phenotypes	deid_center	string	deid_center	STRING
+phv00159570.v4	pht002239.v4	Subject_Phenotypes	finalGold	encoded value	finalGold	STRING
+phv00159571.v4	pht002239.v4	Subject_Phenotypes	gender	encoded value	gender	STRING
+phv00159572.v4	pht002239.v4	Subject_Phenotypes	race	encoded value	race	STRING
+phv00159573.v4	pht002239.v4	Subject_Phenotypes	ethnic	encoded value	ethnic	STRING
+phv00159574.v4	pht002239.v4	Subject_Phenotypes	ATS_ERS	encoded value	ATS_ERS	STRING
+phv00159575.v4	pht002239.v4	Subject_Phenotypes	distwalked	numeric	distwalked	FLOAT
+phv00159576.v4	pht002239.v4	Subject_Phenotypes	O2_suppl_6MW	numeric	O2_suppl_6MW	FLOAT
+phv00159577.v4	pht002239.v4	Subject_Phenotypes	Walk_Course	encoded value	Walk_Course	STRING
+phv00159578.v4	pht002239.v4	Subject_Phenotypes	Walk_Limit	encoded value	Walk_Limit	STRING
+phv00159581.v4	pht002239.v4	Subject_Phenotypes	scanner	string	scanner	STRING
+phv00159582.v4	pht002239.v4	Subject_Phenotypes	FinalApproval	encoded value	FinalApproval	STRING
+phv00159583.v4	pht002239.v4	Subject_Phenotypes	diasBP	numeric	diasBP	FLOAT
+phv00159584.v4	pht002239.v4	Subject_Phenotypes	HR	numeric	HR	FLOAT
+phv00159585.v4	pht002239.v4	Subject_Phenotypes	O2_Hours_Day	numeric	O2_Hours_Day	FLOAT
+phv00159586.v4	pht002239.v4	Subject_Phenotypes	O2_Therapy	encoded value	O2_Therapy	STRING
+phv00159588.v4	pht002239.v4	Subject_Phenotypes	O2_Years	numeric	O2_Years	FLOAT
+phv00159589.v4	pht002239.v4	Subject_Phenotypes	Resting_SaO2	numeric	Resting_SaO2	FLOAT
+phv00159590.v4	pht002239.v4	Subject_Phenotypes	sysBP	numeric	sysBP	FLOAT
+phv00159591.v4	pht002239.v4	Subject_Phenotypes	Weight_KG	numeric	Weight_KG	FLOAT
+phv00159592.v4	pht002239.v4	Subject_Phenotypes	Height_CM	numeric	Height_CM	FLOAT
+phv00159593.v4	pht002239.v4	Subject_Phenotypes	BMI	numeric	BMI	FLOAT
+phv00159602.v4	pht002239.v4	Subject_Phenotypes	HealthStatus	encoded value	HealthStatus	STRING
+phv00159603.v4	pht002239.v4	Subject_Phenotypes	CancerBladder	encoded value	CancerBladder	STRING
+phv00159604.v4	pht002239.v4	Subject_Phenotypes	CancerBreast	encoded value	CancerBreast	STRING
+phv00159605.v4	pht002239.v4	Subject_Phenotypes	CancerColon	encoded value	CancerColon	STRING
+phv00159606.v4	pht002239.v4	Subject_Phenotypes	CancerLung	encoded value	CancerLung	STRING
+phv00159607.v4	pht002239.v4	Subject_Phenotypes	CancerProstate	encoded value	CancerProstate	STRING
+phv00159608.v4	pht002239.v4	Subject_Phenotypes	Angina	encoded value	Angina	STRING
+phv00159609.v4	pht002239.v4	Subject_Phenotypes	CongestHeartFail	encoded value	CongestHeartFail	STRING
+phv00159610.v4	pht002239.v4	Subject_Phenotypes	CoronaryArtery	encoded value	CoronaryArtery	STRING
+phv00159611.v4	pht002239.v4	Subject_Phenotypes	Diabetes	encoded value	Diabetes	STRING
+phv00159612.v4	pht002239.v4	Subject_Phenotypes	HighBloodPres	encoded value	HighBloodPres	STRING
+phv00159613.v4	pht002239.v4	Subject_Phenotypes	HighCholest	encoded value	HighCholest	STRING
+phv00159614.v4	pht002239.v4	Subject_Phenotypes	Pneumothorax	encoded value	Pneumothorax	STRING
+phv00159615.v4	pht002239.v4	Subject_Phenotypes	HeartAttack	encoded value	HeartAttack	STRING
+phv00159616.v4	pht002239.v4	Subject_Phenotypes	BloodClots	encoded value	BloodClots	STRING
+phv00159617.v4	pht002239.v4	Subject_Phenotypes	MacularDegen	encoded value	MacularDegen	STRING
+phv00159618.v4	pht002239.v4	Subject_Phenotypes	PeriphVascular	encoded value	PeriphVascular	STRING
+phv00159619.v4	pht002239.v4	Subject_Phenotypes	Stroke	encoded value	Stroke	STRING
+phv00159620.v4	pht002239.v4	Subject_Phenotypes	TIA	encoded value	TIA	STRING
+phv00159621.v4	pht002239.v4	Subject_Phenotypes	GastroEsophReflx	encoded value	GastroEsophReflx	STRING
+phv00159622.v4	pht002239.v4	Subject_Phenotypes	StomachUlcers	encoded value	StomachUlcers	STRING
+phv00159623.v4	pht002239.v4	Subject_Phenotypes	CompressFracBack	encoded value	CompressFracBack	STRING
+phv00159624.v4	pht002239.v4	Subject_Phenotypes	HipFracture	encoded value	HipFracture	STRING
+phv00159625.v4	pht002239.v4	Subject_Phenotypes	OsteoArth	encoded value	OsteoArth	STRING
+phv00159626.v4	pht002239.v4	Subject_Phenotypes	Osteoporosis	encoded value	Osteoporosis	STRING
+phv00159627.v4	pht002239.v4	Subject_Phenotypes	RheumArth	encoded value	RheumArth	STRING
+phv00159628.v4	pht002239.v4	Subject_Phenotypes	StiffPainLimitWk	encoded value	StiffPainLimitWk	STRING
+phv00159629.v4	pht002239.v4	Subject_Phenotypes	StiffPainBack	encoded value	StiffPainBack	STRING
+phv00159630.v4	pht002239.v4	Subject_Phenotypes	LimitWalkMost	encoded value	LimitWalkMost	STRING
+phv00159631.v4	pht002239.v4	Subject_Phenotypes	CABG	encoded value	CABG	STRING
+phv00159632.v4	pht002239.v4	Subject_Phenotypes	Angioplasty	encoded value	Angioplasty	STRING
+phv00159633.v4	pht002239.v4	Subject_Phenotypes	Alpha1Test	encoded value	Alpha1Test	STRING
+phv00159636.v4	pht002239.v4	Subject_Phenotypes	HowSoonSmoke	encoded value	HowSoonSmoke	STRING
+phv00159637.v4	pht002239.v4	Subject_Phenotypes	SmokeMore2hrs	encoded value	SmokeMore2hrs	STRING
+phv00159638.v4	pht002239.v4	Subject_Phenotypes	CigHateGiveUp	encoded value	CigHateGiveUp	STRING
+phv00159639.v4	pht002239.v4	Subject_Phenotypes	FindHardNotSmoke	encoded value	FindHardNotSmoke	STRING
+phv00159640.v4	pht002239.v4	Subject_Phenotypes	SmokeSickBed	encoded value	SmokeSickBed	STRING
+phv00159641.v4	pht002239.v4	Subject_Phenotypes	SmokeMenthol	encoded value	SmokeMenthol	STRING
+phv00159642.v4	pht002239.v4	Subject_Phenotypes	bagonist	encoded value	bagonist	STRING
+phv00159643.v4	pht002239.v4	Subject_Phenotypes	bagonistlongact	encoded value	bagonistlongact	STRING
+phv00159644.v4	pht002239.v4	Subject_Phenotypes	CombcCSBagon	encoded value	CombcCSBagon	STRING
+phv00159645.v4	pht002239.v4	Subject_Phenotypes	combivent	encoded value	combivent	STRING
+phv00159646.v4	pht002239.v4	Subject_Phenotypes	Cortsterinhal	encoded value	Cortsterinhal	STRING
+phv00159647.v4	pht002239.v4	Subject_Phenotypes	CortsterOral	encoded value	CortsterOral	STRING
+phv00159648.v4	pht002239.v4	Subject_Phenotypes	CurrentMedUse	encoded value	CurrentMedUse	STRING
+phv00159649.v4	pht002239.v4	Subject_Phenotypes	ipratrop	encoded value	ipratrop	STRING
+phv00159651.v4	pht002239.v4	Subject_Phenotypes	nebulizer	encoded value	nebulizer	STRING
+phv00159652.v4	pht002239.v4	Subject_Phenotypes	theoph	encoded value	theoph	STRING
+phv00159653.v4	pht002239.v4	Subject_Phenotypes	tiotrop	encoded value	tiotrop	STRING
+phv00159654.v4	pht002239.v4	Subject_Phenotypes	HaveCough	encoded value	HaveCough	STRING
+phv00159655.v4	pht002239.v4	Subject_Phenotypes	Cough4Plus	encoded value	Cough4Plus	STRING
+phv00159656.v4	pht002239.v4	Subject_Phenotypes	CoughAM_yn	encoded value	CoughAM_yn	STRING
+phv00159657.v4	pht002239.v4	Subject_Phenotypes	CoughRestDay	encoded value	CoughRestDay	STRING
+phv00159658.v4	pht002239.v4	Subject_Phenotypes	Cough3Mo	encoded value	Cough3Mo	STRING
+phv00159659.v4	pht002239.v4	Subject_Phenotypes	CoughNumYr	numeric	CoughNumYr	FLOAT
+phv00159660.v4	pht002239.v4	Subject_Phenotypes	HavePhlegm	encoded value	HavePhlegm	STRING
+phv00159661.v4	pht002239.v4	Subject_Phenotypes	PhlegmOften	encoded value	PhlegmOften	STRING
+phv00159662.v4	pht002239.v4	Subject_Phenotypes	PhlegmAM	encoded value	PhlegmAM	STRING
+phv00159663.v4	pht002239.v4	Subject_Phenotypes	PhlegmRestDay	encoded value	PhlegmRestDay	STRING
+phv00159664.v4	pht002239.v4	Subject_Phenotypes	Phlegm3Mo	encoded value	Phlegm3Mo	STRING
+phv00159665.v4	pht002239.v4	Subject_Phenotypes	PhlegmNumYr	numeric	PhlegmNumYr	FLOAT
+phv00159666.v4	pht002239.v4	Subject_Phenotypes	EpisodeCghPhlm	encoded value	EpisodeCghPhlm	STRING
+phv00159667.v4	pht002239.v4	Subject_Phenotypes	NumEpisodeLastYr	numeric	NumEpisodeLastYr	FLOAT
+phv00159668.v4	pht002239.v4	Subject_Phenotypes	YrsEpisodeLast	numeric	YrsEpisodeLast	FLOAT
+phv00159669.v4	pht002239.v4	Subject_Phenotypes	ChstWheezyWhist	encoded value	ChstWheezyWhist	STRING
+phv00159670.v4	pht002239.v4	Subject_Phenotypes	AgeWheezWhist	numeric	AgeWheezWhist	FLOAT
+phv00159671.v4	pht002239.v4	Subject_Phenotypes	AgeWheezWhistDK	encoded value	AgeWheezWhistDK	STRING
+phv00159672.v4	pht002239.v4	Subject_Phenotypes	ShrtBrthAttk	encoded value	ShrtBrthAttk	STRING
+phv00159673.v4	pht002239.v4	Subject_Phenotypes	AgeFirstAttack	numeric	AgeFirstAttack	FLOAT
+phv00159674.v4	pht002239.v4	Subject_Phenotypes	AgeFirstAttackDK	encoded value	AgeFirstAttackDK	STRING
+phv00159675.v4	pht002239.v4	Subject_Phenotypes	ShrtBrth2Plus	encoded value	ShrtBrth2Plus	STRING
+phv00159676.v4	pht002239.v4	Subject_Phenotypes	MedorTreatAttack	encoded value	MedorTreatAttack	STRING
+phv00159677.v4	pht002239.v4	Subject_Phenotypes	ChestWheez12mo	encoded value	ChestWheez12mo	STRING
+phv00159678.v4	pht002239.v4	Subject_Phenotypes	WithCold	encoded value	WithCold	STRING
+phv00159679.v4	pht002239.v4	Subject_Phenotypes	ApartFromCold	encoded value	ApartFromCold	STRING
+phv00159680.v4	pht002239.v4	Subject_Phenotypes	MoreOnceAWeek	encoded value	MoreOnceAWeek	STRING
+phv00159681.v4	pht002239.v4	Subject_Phenotypes	MostDaysNights	encoded value	MostDaysNights	STRING
+phv00159682.v4	pht002239.v4	Subject_Phenotypes	AwakeByCough	encoded value	AwakeByCough	STRING
+phv00159683.v4	pht002239.v4	Subject_Phenotypes	AwakeByShrtBrth	encoded value	AwakeByShrtBrth	STRING
+phv00159684.v4	pht002239.v4	Subject_Phenotypes	SneezRunnyNose	encoded value	SneezRunnyNose	STRING
+phv00159685.v4	pht002239.v4	Subject_Phenotypes	ItchyBurningEye	encoded value	ItchyBurningEye	STRING
+phv00159686.v4	pht002239.v4	Subject_Phenotypes	UnablWalkCondOth	encoded value	UnablWalkCondOth	STRING
+phv00159688.v4	pht002239.v4	Subject_Phenotypes	LtdUphill	encoded value	LtdUphill	STRING
+phv00159689.v4	pht002239.v4	Subject_Phenotypes	LtdLevelSlow	encoded value	LtdLevelSlow	STRING
+phv00159690.v4	pht002239.v4	Subject_Phenotypes	LtdLevelStop	encoded value	LtdLevelStop	STRING
+phv00159691.v4	pht002239.v4	Subject_Phenotypes	LtdLvlStop100	encoded value	LtdLvlStop100	STRING
+phv00159692.v4	pht002239.v4	Subject_Phenotypes	LtdNotLeaveHm	encoded value	LtdNotLeaveHm	STRING
+phv00159693.v4	pht002239.v4	Subject_Phenotypes	ERLungProb	encoded value	ERLungProb	STRING
+phv00159694.v4	pht002239.v4	Subject_Phenotypes	FlareupChestTrb	encoded value	FlareupChestTrb	STRING
+phv00159701.v4	pht002239.v4	Subject_Phenotypes	Asthma	encoded value	Asthma	STRING
+phv00159702.v4	pht002239.v4	Subject_Phenotypes	AsthmaAge	numeric	AsthmaAge	FLOAT
+phv00159703.v4	pht002239.v4	Subject_Phenotypes	AsthmaAgeDK	encoded value	AsthmaAgeDK	STRING
+phv00159704.v4	pht002239.v4	Subject_Phenotypes	AsthmaDxByDr	encoded value	AsthmaDxByDr	STRING
+phv00159705.v4	pht002239.v4	Subject_Phenotypes	AsthmaStillHave	encoded value	AsthmaStillHave	STRING
+phv00159706.v4	pht002239.v4	Subject_Phenotypes	AsthmaAgeStop	numeric	AsthmaAgeStop	FLOAT
+phv00159707.v4	pht002239.v4	Subject_Phenotypes	AsthmaStopChild	encoded value	AsthmaStopChild	STRING
+phv00159708.v4	pht002239.v4	Subject_Phenotypes	AsthmaTreat	encoded value	AsthmaTreat	STRING
+phv00159709.v4	pht002239.v4	Subject_Phenotypes	HayFev	encoded value	HayFev	STRING
+phv00159710.v4	pht002239.v4	Subject_Phenotypes	HayFevAge	numeric	HayFevAge	FLOAT
+phv00159711.v4	pht002239.v4	Subject_Phenotypes	HayFevAgeDK	encoded value	HayFevAgeDK	STRING
+phv00159712.v4	pht002239.v4	Subject_Phenotypes	HayFevDxByDr	encoded value	HayFevDxByDr	STRING
+phv00159713.v4	pht002239.v4	Subject_Phenotypes	HayFevStillHave	encoded value	HayFevStillHave	STRING
+phv00159714.v4	pht002239.v4	Subject_Phenotypes	HayFevAgeStop	numeric	HayFevAgeStop	FLOAT
+phv00159715.v4	pht002239.v4	Subject_Phenotypes	HayFevStill	encoded value	HayFevStill	STRING
+phv00159716.v4	pht002239.v4	Subject_Phenotypes	HayFevTreat	encoded value	HayFevTreat	STRING
+phv00159717.v4	pht002239.v4	Subject_Phenotypes	BronchAttack	encoded value	BronchAttack	STRING
+phv00159718.v4	pht002239.v4	Subject_Phenotypes	BronchDxByDr	encoded value	BronchDxByDr	STRING
+phv00159719.v4	pht002239.v4	Subject_Phenotypes	BronchAge	numeric	BronchAge	FLOAT
+phv00159720.v4	pht002239.v4	Subject_Phenotypes	BronchAgeDK	encoded value	BronchAgeDK	STRING
+phv00159721.v4	pht002239.v4	Subject_Phenotypes	BronchTimes	numeric	BronchTimes	FLOAT
+phv00159722.v4	pht002239.v4	Subject_Phenotypes	Pneumonia	encoded value	Pneumonia	STRING
+phv00159723.v4	pht002239.v4	Subject_Phenotypes	PneuDxByDr	encoded value	PneuDxByDr	STRING
+phv00159724.v4	pht002239.v4	Subject_Phenotypes	PneuAge	numeric	PneuAge	FLOAT
+phv00159725.v4	pht002239.v4	Subject_Phenotypes	PneuAgeDK	encoded value	PneuAgeDK	STRING
+phv00159726.v4	pht002239.v4	Subject_Phenotypes	PneuTimes	numeric	PneuTimes	FLOAT
+phv00159727.v4	pht002239.v4	Subject_Phenotypes	ChronBronch	encoded value	ChronBronch	STRING
+phv00159728.v4	pht002239.v4	Subject_Phenotypes	ChronBroncDxByDr	encoded value	ChronBroncDxByDr	STRING
+phv00159729.v4	pht002239.v4	Subject_Phenotypes	Emphysema	encoded value	Emphysema	STRING
+phv00159730.v4	pht002239.v4	Subject_Phenotypes	EmphDxByDr	encoded value	EmphDxByDr	STRING
+phv00159731.v4	pht002239.v4	Subject_Phenotypes	COPD	encoded value	COPD	STRING
+phv00159732.v4	pht002239.v4	Subject_Phenotypes	CopdDxByDr	encoded value	CopdDxByDr	STRING
+phv00159733.v4	pht002239.v4	Subject_Phenotypes	CopdAge	numeric	CopdAge	FLOAT
+phv00159734.v4	pht002239.v4	Subject_Phenotypes	CopdStillHave	encoded value	CopdStillHave	STRING
+phv00159735.v4	pht002239.v4	Subject_Phenotypes	CopdTreat	encoded value	CopdTreat	STRING
+phv00159736.v4	pht002239.v4	Subject_Phenotypes	SleepApnea	encoded value	SleepApnea	STRING
+phv00159737.v4	pht002239.v4	Subject_Phenotypes	SleepApDxByDr	encoded value	SleepApDxByDr	STRING
+phv00159738.v4	pht002239.v4	Subject_Phenotypes	SleepApAge	numeric	SleepApAge	FLOAT
+phv00159739.v4	pht002239.v4	Subject_Phenotypes	SleepApStillHav	encoded value	SleepApStillHav	STRING
+phv00159740.v4	pht002239.v4	Subject_Phenotypes	SleepApTreat	encoded value	SleepApTreat	STRING
+phv00159741.v4	pht002239.v4	Subject_Phenotypes	ChestIllOther	encoded value	ChestIllOther	STRING
+phv00159743.v4	pht002239.v4	Subject_Phenotypes	ChestOper	encoded value	ChestOper	STRING
+phv00159745.v4	pht002239.v4	Subject_Phenotypes	ChestInj	encoded value	ChestInj	STRING
+phv00159747.v4	pht002239.v4	Subject_Phenotypes	EverSmokedCig	encoded value	EverSmokedCig	STRING
+phv00159748.v4	pht002239.v4	Subject_Phenotypes	SmokStartAge	numeric	SmokStartAge	FLOAT
+phv00159749.v4	pht002239.v4	Subject_Phenotypes	SmokCigNow	encoded value	SmokCigNow	STRING
+phv00159750.v4	pht002239.v4	Subject_Phenotypes	CigPerDaySmokNow	numeric	CigPerDaySmokNow	FLOAT
+phv00159751.v4	pht002239.v4	Subject_Phenotypes	SmokStopAge	numeric	SmokStopAge	FLOAT
+phv00159752.v4	pht002239.v4	Subject_Phenotypes	CigPerDaySmokAvg	numeric	CigPerDaySmokAvg	FLOAT
+phv00159753.v4	pht002239.v4	Subject_Phenotypes	CigSmok24hrs_NA	encoded value	CigSmok24hrs_NA	STRING
+phv00159754.v4	pht002239.v4	Subject_Phenotypes	CigSmok24hrs	numeric	CigSmok24hrs	FLOAT
+phv00159755.v4	pht002239.v4	Subject_Phenotypes	CigSmok2hrs	numeric	CigSmok2hrs	FLOAT
+phv00159756.v4	pht002239.v4	Subject_Phenotypes	CigSmokHalfHr	numeric	CigSmokHalfHr	FLOAT
+phv00159757.v4	pht002239.v4	Subject_Phenotypes	SmokPipeReg	encoded value	SmokPipeReg	STRING
+phv00159758.v4	pht002239.v4	Subject_Phenotypes	AgeStartSmokPipe	numeric	AgeStartSmokPipe	FLOAT
+phv00159759.v4	pht002239.v4	Subject_Phenotypes	SmokPipeNow	encoded value	SmokPipeNow	STRING
+phv00159760.v4	pht002239.v4	Subject_Phenotypes	QtySmokPipeTob	numeric	QtySmokPipeTob	FLOAT
+phv00159761.v4	pht002239.v4	Subject_Phenotypes	AgeStopSmokPipe	numeric	AgeStopSmokPipe	FLOAT
+phv00159762.v4	pht002239.v4	Subject_Phenotypes	SmokTobPerWeek	numeric	SmokTobPerWeek	FLOAT
+phv00159763.v4	pht002239.v4	Subject_Phenotypes	SmokCigarReg	encoded value	SmokCigarReg	STRING
+phv00159764.v4	pht002239.v4	Subject_Phenotypes	AgeStartSmkCigar	numeric	AgeStartSmkCigar	FLOAT
+phv00159765.v4	pht002239.v4	Subject_Phenotypes	SmokCigarNow	encoded value	SmokCigarNow	STRING
+phv00159766.v4	pht002239.v4	Subject_Phenotypes	CigarPerDayNow	numeric	CigarPerDayNow	FLOAT
+phv00159767.v4	pht002239.v4	Subject_Phenotypes	AgeStopSmokCigar	numeric	AgeStopSmokCigar	FLOAT
+phv00159768.v4	pht002239.v4	Subject_Phenotypes	SmokCigarPerWeek	numeric	SmokCigarPerWeek	FLOAT
+phv00159769.v4	pht002239.v4	Subject_Phenotypes	MothSmokPreg	encoded value	MothSmokPreg	STRING
+phv00159770.v4	pht002239.v4	Subject_Phenotypes	OthSmokChildYrs	numeric	OthSmokChildYrs	FLOAT
+phv00159771.v4	pht002239.v4	Subject_Phenotypes	OthSmokYrs	numeric	OthSmokYrs	FLOAT
+phv00159772.v4	pht002239.v4	Subject_Phenotypes	ExpSmokAtWorkYr	numeric	ExpSmokAtWorkYr	FLOAT
+phv00159773.v4	pht002239.v4	Subject_Phenotypes	SchoolCompleted	encoded value	SchoolCompleted	STRING
+phv00159774.v4	pht002239.v4	Subject_Phenotypes	DustyJobEver	encoded value	DustyJobEver	STRING
+phv00159775.v4	pht002239.v4	Subject_Phenotypes	FumesJobEver	encoded value	FumesJobEver	STRING
+phv00159778.v4	pht002239.v4	Subject_Phenotypes	WorkNow	encoded value	WorkNow	STRING
+phv00159779.v4	pht002239.v4	Subject_Phenotypes	WorkDustyJobNow	encoded value	WorkDustyJobNow	STRING
+phv00159780.v4	pht002239.v4	Subject_Phenotypes	ExpFumesNow	encoded value	ExpFumesNow	STRING
+phv00159783.v4	pht002239.v4	Subject_Phenotypes	StopWork	encoded value	StopWork	STRING
+phv00159785.v4	pht002239.v4	Subject_Phenotypes	FathChronBronch	encoded value	FathChronBronch	STRING
+phv00159786.v4	pht002239.v4	Subject_Phenotypes	MothChronBronch	encoded value	MothChronBronch	STRING
+phv00159787.v4	pht002239.v4	Subject_Phenotypes	FathEmphysema	encoded value	FathEmphysema	STRING
+phv00159788.v4	pht002239.v4	Subject_Phenotypes	MothEmphysema	encoded value	MothEmphysema	STRING
+phv00159789.v4	pht002239.v4	Subject_Phenotypes	FathCOPD	encoded value	FathCOPD	STRING
+phv00159790.v4	pht002239.v4	Subject_Phenotypes	MothCOPD	encoded value	MothCOPD	STRING
+phv00159791.v4	pht002239.v4	Subject_Phenotypes	FathAsthma	encoded value	FathAsthma	STRING
+phv00159792.v4	pht002239.v4	Subject_Phenotypes	MothAsthma	encoded value	MothAsthma	STRING
+phv00159793.v4	pht002239.v4	Subject_Phenotypes	FathLungCancer	encoded value	FathLungCancer	STRING
+phv00159794.v4	pht002239.v4	Subject_Phenotypes	MothLungCancer	encoded value	MothLungCancer	STRING
+phv00159795.v4	pht002239.v4	Subject_Phenotypes	FathCigSmok	encoded value	FathCigSmok	STRING
+phv00159796.v4	pht002239.v4	Subject_Phenotypes	MothCigSmok	encoded value	MothCigSmok	STRING
+phv00159797.v4	pht002239.v4	Subject_Phenotypes	MMRCDyspneaScor	numeric	MMRCDyspneaScor	FLOAT
+phv00159798.v4	pht002239.v4	Subject_Phenotypes	COPDExac_NoTrt	numeric	COPDExac_NoTrt	FLOAT
+phv00159799.v4	pht002239.v4	Subject_Phenotypes	COPDExac_UsualMed	numeric	COPDExac_UsualMed	FLOAT
+phv00159809.v4	pht002239.v4	Subject_Phenotypes	SGRQ_scoreSymptom	numeric	SGRQ_scoreSymptom	FLOAT
+phv00159810.v4	pht002239.v4	Subject_Phenotypes	SGRQ_scoreActive	numeric	SGRQ_scoreActive	FLOAT
+phv00159811.v4	pht002239.v4	Subject_Phenotypes	SGRQ_scoreImpact	numeric	SGRQ_scoreImpact	FLOAT
+phv00159812.v4	pht002239.v4	Subject_Phenotypes	SGRQ_scoreTotal	numeric	SGRQ_scoreTotal	FLOAT
+phv00159820.v4	pht002239.v4	Subject_Phenotypes	TLC_Slicer	numeric	TLC_Slicer	FLOAT
+phv00159821.v4	pht002239.v4	Subject_Phenotypes	FRC_Slicer	numeric	FRC_Slicer	FLOAT
+phv00159822.v4	pht002239.v4	Subject_Phenotypes	pctEmph_Slicer	numeric	pctEmph_Slicer	FLOAT
+phv00159823.v4	pht002239.v4	Subject_Phenotypes	pctGasTrap_Slicer	numeric	pctGasTrap_Slicer	FLOAT
+phv00159824.v4	pht002239.v4	Subject_Phenotypes	SF36_PF_score	numeric	SF36_PF_score	FLOAT
+phv00159825.v4	pht002239.v4	Subject_Phenotypes	SF36_RP_score	numeric	SF36_RP_score	FLOAT
+phv00159826.v4	pht002239.v4	Subject_Phenotypes	SF36_RE_score	numeric	SF36_RE_score	FLOAT
+phv00159827.v4	pht002239.v4	Subject_Phenotypes	SF36_SF_score	numeric	SF36_SF_score	FLOAT
+phv00159828.v4	pht002239.v4	Subject_Phenotypes	SF36_BP_score	numeric	SF36_BP_score	FLOAT
+phv00159829.v4	pht002239.v4	Subject_Phenotypes	SF36_VT_score	numeric	SF36_VT_score	FLOAT
+phv00159830.v4	pht002239.v4	Subject_Phenotypes	SF36_MH_score	numeric	SF36_MH_score	FLOAT
+phv00159831.v4	pht002239.v4	Subject_Phenotypes	SF36_GH_score	numeric	SF36_GH_score	FLOAT
+phv00159832.v4	pht002239.v4	Subject_Phenotypes	SF36_PF_t_score	numeric	SF36_PF_t_score	FLOAT
+phv00159833.v4	pht002239.v4	Subject_Phenotypes	SF36_GH_t_score	numeric	SF36_GH_t_score	FLOAT
+phv00159834.v4	pht002239.v4	Subject_Phenotypes	SF36_PCS_score	numeric	SF36_PCS_score	FLOAT
+phv00159835.v4	pht002239.v4	Subject_Phenotypes	SF36_MCS_score	numeric	SF36_MCS_score	FLOAT
+phv00159836.v4	pht002239.v4	Subject_Phenotypes	Age_Enroll	numeric	Age_Enroll	FLOAT
+phv00159841.v4	pht002239.v4	Subject_Phenotypes	BODE	numeric	BODE	FLOAT
+phv00159842.v4	pht002239.v4	Subject_Phenotypes	ATS_PackYears	numeric	ATS_PackYears	FLOAT
+phv00159843.v4	pht002239.v4	Subject_Phenotypes	Severe_Exacerbations	numeric	Severe_Exacerbations	FLOAT
+phv00159844.v4	pht002239.v4	Subject_Phenotypes	Exacerbation_Frequency	numeric	Exacerbation_Frequency	FLOAT
+phv00159845.v4	pht002239.v4	Subject_Phenotypes	Chronic_Bronchitis	numeric	Chronic_Bronchitis	FLOAT
+phv00159846.v4	pht002239.v4	Subject_Phenotypes	Siemens64	numeric	Siemens64	FLOAT
+phv00159847.v4	pht002239.v4	Subject_Phenotypes	Fagerstrom_Index	numeric	Fagerstrom_Index	FLOAT
+phv00159848.v4	pht002239.v4	Subject_Phenotypes	FEV1pp_post	numeric	FEV1pp_post	FLOAT
+phv00159849.v4	pht002239.v4	Subject_Phenotypes	FVCpp_post	numeric	FVCpp_post	FLOAT
+phv00159850.v4	pht002239.v4	Subject_Phenotypes	FEV1_FVC_post	numeric	FEV1_FVC_post	FLOAT
+phv00159851.v4	pht002239.v4	Subject_Phenotypes	FEV1_post	numeric	FEV1_post	FLOAT
+phv00159852.v4	pht002239.v4	Subject_Phenotypes	FVC_post	numeric	FVC_post	FLOAT
+phv00159853.v4	pht002239.v4	Subject_Phenotypes	FEV1_pre	numeric	FEV1_pre	FLOAT
+phv00159854.v4	pht002239.v4	Subject_Phenotypes	FVC_pre	numeric	FVC_pre	FLOAT
+phv00159855.v4	pht002239.v4	Subject_Phenotypes	FEV1_FVC_pre	numeric	FEV1_FVC_pre	FLOAT
+phv00159856.v4	pht002239.v4	Subject_Phenotypes	deltaFEV1	numeric	deltaFEV1	FLOAT
+phv00159857.v4	pht002239.v4	Subject_Phenotypes	deltaFVC	numeric	deltaFVC	FLOAT
+phv00159858.v4	pht002239.v4	Subject_Phenotypes	BDR_pct_FEV1	numeric	BDR_pct_FEV1	FLOAT
+phv00159859.v4	pht002239.v4	Subject_Phenotypes	BDR_pct_FVC	numeric	BDR_pct_FVC	FLOAT
+phv00159860.v4	pht002239.v4	Subject_Phenotypes	BDR	numeric	BDR	FLOAT
+phv00160261.v4	pht002239.v4	Subject_Phenotypes	WalkSymp_BackPain	encoded value	WalkSymp_BackPain	STRING
+phv00160262.v4	pht002239.v4	Subject_Phenotypes	WalkSymp_JointPain	encoded value	WalkSymp_JointPain	STRING
+phv00160263.v4	pht002239.v4	Subject_Phenotypes	WalkSymp_Legs_Fatigue	encoded value	WalkSymp_Legs_Fatigue	STRING
+phv00160264.v4	pht002239.v4	Subject_Phenotypes	WalkSymp_ShortnessBreath	encoded value	WalkSymp_ShortnessBreath	STRING
+phv00160265.v4	pht002239.v4	Subject_Phenotypes	O2use_rest	encoded value	O2use_rest	STRING
+phv00160266.v4	pht002239.v4	Subject_Phenotypes	O2use_exercise	encoded value	O2use_exercise	STRING
+phv00160267.v4	pht002239.v4	Subject_Phenotypes	O2use_sleep	encoded value	O2use_sleep	STRING
+phv00169306.v3	pht002239.v4	Subject_Phenotypes	ExclusionaryDisease	string	ExclusionaryDisease	STRING
+phv00169327.v3	pht002239.v4	Subject_Phenotypes	QA_CalciumCalPad	encoded value	QA_CalciumCalPad	STRING
+phv00169328.v3	pht002239.v4	Subject_Phenotypes	PhenoGenotype	string	PhenoGenotype	STRING
+phv00169329.v3	pht002239.v4	Subject_Phenotypes	PhenoGenoDK	encoded value	PhenoGenoDK	STRING
+phv00169331.v3	pht002239.v4	Subject_Phenotypes	PainfulJoints	encoded value	PainfulJoints	STRING
+phv00169332.v3	pht002239.v4	Subject_Phenotypes	LowerBackPain	encoded value	LowerBackPain	STRING
+phv00169333.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Shoulder	encoded value	PainJointType_Shoulder	STRING
+phv00169334.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Elbow	encoded value	PainJointType_Elbow	STRING
+phv00169335.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Wrist	encoded value	PainJointType_Wrist	STRING
+phv00169336.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Hip	encoded value	PainJointType_Hip	STRING
+phv00169337.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Knee	encoded value	PainJointType_Knee	STRING
+phv00169338.v3	pht002239.v4	Subject_Phenotypes	PainJointType_Foot	encoded value	PainJointType_Foot	STRING
+phv00169339.v3	pht002239.v4	Subject_Phenotypes	ERLungProbtimes	numeric	ERLungProbtimes	FLOAT
+phv00169340.v3	pht002239.v4	Subject_Phenotypes	TreatChestIll	encoded value	TreatChestIll	STRING
+phv00169341.v3	pht002239.v4	Subject_Phenotypes	TreatChestTimes	numeric	TreatChestTimes	FLOAT
+phv00169342.v3	pht002239.v4	Subject_Phenotypes	TreatSteroids	encoded value	TreatSteroids	STRING
+phv00169343.v3	pht002239.v4	Subject_Phenotypes	TreatSteroiTimes	numeric	TreatSteroiTimes	FLOAT
+phv00169344.v3	pht002239.v4	Subject_Phenotypes	ChronBroncAge	numeric	ChronBroncAge	FLOAT
+phv00169345.v3	pht002239.v4	Subject_Phenotypes	ChronBrncStillHv	encoded value	ChronBrncStillHv	STRING
+phv00169346.v3	pht002239.v4	Subject_Phenotypes	ChronBroncTreat	encoded value	ChronBroncTreat	STRING
+phv00169347.v3	pht002239.v4	Subject_Phenotypes	EmphAge	numeric	EmphAge	FLOAT
+phv00169348.v3	pht002239.v4	Subject_Phenotypes	EmphStillHave	encoded value	EmphStillHave	STRING
+phv00169349.v3	pht002239.v4	Subject_Phenotypes	EmphTreat	encoded value	EmphTreat	STRING
+phv00169350.v3	pht002239.v4	Subject_Phenotypes	COPDExac_Antib_Ster_Home	numeric	COPDExac_Antib_Ster_Home	FLOAT
+phv00169351.v3	pht002239.v4	Subject_Phenotypes	COPDExac_NewRx_Antib_Ster	numeric	COPDExac_NewRx_Antib_Ster	FLOAT
+phv00169352.v3	pht002239.v4	Subject_Phenotypes	COPDExac_Hospital	numeric	COPDExac_Hospital	FLOAT
+phv00169353.v3	pht002239.v4	Subject_Phenotypes	pctEmph_vida	numeric	pctEmph_vida	FLOAT
+phv00169354.v3	pht002239.v4	Subject_Phenotypes	pctGasTrap_vida	numeric	pctGasTrap_vida	FLOAT
+phv00169355.v3	pht002239.v4	Subject_Phenotypes	TLC_CT_vida	numeric	TLC_CT_vida	FLOAT
+phv00169356.v3	pht002239.v4	Subject_Phenotypes	FRC_CT_vida	numeric	FRC_CT_vida	FLOAT
+phv00169357.v3	pht002239.v4	Subject_Phenotypes	AttenMean_Insp_vida	numeric	AttenMean_Insp_vida	FLOAT
+phv00169358.v3	pht002239.v4	Subject_Phenotypes	AttenMean_Exp_vida	numeric	AttenMean_Exp_vida	FLOAT
+phv00169359.v3	pht002239.v4	Subject_Phenotypes	Hu_15perc_Insp_vida	numeric	Hu_15perc_Insp_vida	FLOAT
+phv00169360.v3	pht002239.v4	Subject_Phenotypes	Hu_15perc_Exp_vida	numeric	Hu_15perc_Exp_vida	FLOAT
+phv00169361.v3	pht002239.v4	Subject_Phenotypes	ExpInspMeanAtten_ratio_vida	numeric	ExpInspMeanAtten_ratio_vida	FLOAT
+phv00169362.v3	pht002239.v4	Subject_Phenotypes	pctEmph_UpperLobes_vida	numeric	pctEmph_UpperLobes_vida	FLOAT
+phv00169363.v3	pht002239.v4	Subject_Phenotypes	pctEmph_LowerLobes_vida	numeric	pctEmph_LowerLobes_vida	FLOAT
+phv00169364.v3	pht002239.v4	Subject_Phenotypes	UpperLobe_pctTotalAirVol_vida	numeric	UpperLobe_pctTotalAirVol_vida	FLOAT
+phv00169365.v3	pht002239.v4	Subject_Phenotypes	pctEmph_UL_LL_ratio_vida	numeric	pctEmph_UL_LL_ratio_vida	FLOAT
+phv00169366.v3	pht002239.v4	Subject_Phenotypes	Pi10_SRWA_vida	numeric	Pi10_SRWA_vida	FLOAT
+phv00169367.v3	pht002239.v4	Subject_Phenotypes	Pi15_SRWA_vida	numeric	Pi15_SRWA_vida	FLOAT
+phv00169368.v3	pht002239.v4	Subject_Phenotypes	WallAreaPct_seg_vida	numeric	WallAreaPct_seg_vida	FLOAT
+phv00169369.v3	pht002239.v4	Subject_Phenotypes	WallAreaPct_subseg_vida	numeric	WallAreaPct_subseg_vida	FLOAT
+phv00169370.v3	pht002239.v4	Subject_Phenotypes	Hu_15pct_Insp_Slicer	numeric	Hu_15pct_Insp_Slicer	FLOAT
+phv00169371.v3	pht002239.v4	Subject_Phenotypes	IntensityMean_In_Slicer	numeric	IntensityMean_In_Slicer	FLOAT
+phv00169372.v3	pht002239.v4	Subject_Phenotypes	pctEmph_UpperThird_Slicer	numeric	pctEmph_UpperThird_Slicer	FLOAT
+phv00169373.v3	pht002239.v4	Subject_Phenotypes	pctEmph_LowerThird_Slicer	numeric	pctEmph_LowerThird_Slicer	FLOAT
+phv00169374.v3	pht002239.v4	Subject_Phenotypes	Hu_15pct_Exp_Slicer	numeric	Hu_15pct_Exp_Slicer	FLOAT
+phv00169375.v3	pht002239.v4	Subject_Phenotypes	IntensityMean_Ex_Slicer	numeric	IntensityMean_Ex_Slicer	FLOAT
+phv00169376.v3	pht002239.v4	Subject_Phenotypes	UpperThird_LowerThird_Slicer	numeric	UpperThird_LowerThird_Slicer	FLOAT
+phv00169377.v3	pht002239.v4	Subject_Phenotypes	ExpInspMeanAtten_ratio_Slicer	numeric	ExpInspMeanAtten_ratio_Slicer	FLOAT
+phv00169378.v3	pht002239.v4	Subject_Phenotypes	SF36_RP_t_score	numeric	SF36_RP_t_score	FLOAT
+phv00169379.v3	pht002239.v4	Subject_Phenotypes	SF36_RE_t_score	numeric	SF36_RE_t_score	FLOAT
+phv00169380.v3	pht002239.v4	Subject_Phenotypes	SF36_SF_t_score	numeric	SF36_SF_t_score	FLOAT
+phv00169381.v3	pht002239.v4	Subject_Phenotypes	SF36_BP_t_score	numeric	SF36_BP_t_score	FLOAT
+phv00169382.v3	pht002239.v4	Subject_Phenotypes	SF36_VT_t_score	numeric	SF36_VT_t_score	FLOAT
+phv00169383.v3	pht002239.v4	Subject_Phenotypes	SF36_MH_t_score	numeric	SF36_MH_t_score	FLOAT
+phv00169384.v3	pht002239.v4	Subject_Phenotypes	TLCpred_race_adjusted	numeric	TLCpred_race_adjusted	FLOAT
+phv00169385.v3	pht002239.v4	Subject_Phenotypes	FRCpred_race_adjusted	numeric	FRCpred_race_adjusted	FLOAT
+phv00169386.v3	pht002239.v4	Subject_Phenotypes	TLCpp_race_adjusted	numeric	TLCpp_race_adjusted	FLOAT
+phv00169387.v3	pht002239.v4	Subject_Phenotypes	FRCpp_race_adjusted	numeric	FRCpp_race_adjusted	FLOAT
+phv00169388.v3	pht002239.v4	Subject_Phenotypes	Duration_Smoking	numeric	Duration_Smoking	FLOAT
+phv00169389.v3	pht002239.v4	Subject_Phenotypes	YearsSinceQuit	numeric	YearsSinceQuit	FLOAT
+phv00169390.v3	pht002239.v4	Subject_Phenotypes	PFT_CT_numdays	numeric	PFT_CT_numdays	FLOAT
+phv00169391.v3	pht002239.v4	Subject_Phenotypes	pftused	string	pftused	STRING
+phv00169392.v3	pht002239.v4	Subject_Phenotypes	FEV6_post	numeric	FEV6_post	FLOAT
+phv00169393.v3	pht002239.v4	Subject_Phenotypes	PEF_post	numeric	PEF_post	FLOAT
+phv00169394.v3	pht002239.v4	Subject_Phenotypes	FEF2575_post	numeric	FEF2575_post	FLOAT
+phv00169395.v3	pht002239.v4	Subject_Phenotypes	FEV6_pre	numeric	FEV6_pre	FLOAT
+phv00169396.v3	pht002239.v4	Subject_Phenotypes	PEF_pre	numeric	PEF_pre	FLOAT
+phv00169397.v3	pht002239.v4	Subject_Phenotypes	FEF2575_pre	numeric	FEF2575_pre	FLOAT
+phv00170985.v2	pht002776.v2	Subject_Phenotypes	SUBJECT_ID	char	SUBJECT_ID	STRING
+phv00170986.v1	pht002776.v2	Subject_Phenotypes	ESP_PHENOTYPE	char	ESP_PHENOTYPE	STRING
+phv00170987.v1	pht002776.v2	Subject_Phenotypes	ESP_STUDY	char	ESP_STUDY	STRING
+phv00170988.v1	pht002776.v2	Subject_Phenotypes	ESP_COHORT	char	ESP_COHORT	STRING
+phv00170989.v1	pht002776.v2	Subject_Phenotypes	ESP_RACE	char	ESP_RACE	STRING
+phv00170990.v1	pht002776.v2	Subject_Phenotypes	ESP_SEX	char	ESP_SEX	STRING
+phv00170991.v1	pht002776.v2	Subject_Phenotypes	ESP_STUDY_SITE	char	ESP_STUDY_SITE	STRING
+phv00170992.v1	pht002776.v2	Subject_Phenotypes	ESP_AGE_BASELINE	num	ESP_AGE_BASELINE	FLOAT
+phv00170993.v1	pht002776.v2	Subject_Phenotypes	ESP_MI_BASELINE	num	ESP_MI_BASELINE	FLOAT
+phv00170994.v1	pht002776.v2	Subject_Phenotypes	ESP_BMI_BASELINE	num	ESP_BMI_BASELINE	FLOAT
+phv00170995.v1	pht002776.v2	Subject_Phenotypes	ESP_WEIGHT_BASELINE	num	ESP_WEIGHT_BASELINE	FLOAT
+phv00170996.v1	pht002776.v2	Subject_Phenotypes	ESP_HEIGHT_BASELINE	num	ESP_HEIGHT_BASELINE	FLOAT
+phv00170997.v1	pht002776.v2	Subject_Phenotypes	ESP_CURRENT_SMOKER_BASELINE	num	ESP_CURRENT_SMOKER_BASELINE	FLOAT
+phv00170998.v1	pht002776.v2	Subject_Phenotypes	ESP_FORMER_SMOKER_BASELINE	num	ESP_FORMER_SMOKER_BASELINE	FLOAT
+phv00170999.v1	pht002776.v2	Subject_Phenotypes	ESP_T2DIABETES_BASELINE	num	ESP_T2DIABETES_BASELINE	FLOAT
+phv00171000.v2	pht002777.v2	Sample_Attributes	SAMPLE_ID	string	SAMPLE_ID	STRING
+phv00171001.v1	pht002777.v2	Sample_Attributes	Body_site	string	Body_site	STRING
+phv00171002.v1	pht002777.v2	Sample_Attributes	Analyte_type	string	Analyte_type	STRING
+phv00171003.v1	pht002777.v2	Sample_Attributes	Is_Tumor	encoded values	Is_Tumor	STRING
+phv00171004.v1	pht002777.v2	Sample_Attributes	Histological_Type	string	Histological_Type	STRING
+phv00195567.v1	pht001111.v4	AirNRExamMain	cepgfr1c	NUMERIC	cepgfr1c	FLOAT
+phv00195568.v1	pht001111.v4	AirNRExamMain	dmtype1c	NUMERIC	dmtype1c	FLOAT
+phv00195569.v1	pht001111.v4	AirNRExamMain	mtsy031c	NUMERIC	mtsy031c	FLOAT
+phv00278174.v1	pht002239.v4	Subject_Phenotypes	Study_Phase	string	Study_Phase	STRING
+phv00278175.v1	pht002239.v4	Subject_Phenotypes	Visit_Year	numeric	Visit_Year	FLOAT
+phv00278176.v1	pht002239.v4	Subject_Phenotypes	kernel	string	kernel	STRING
+phv00278177.v1	pht002239.v4	Subject_Phenotypes	FRC_TLC_ratio	numeric	FRC_TLC_ratio	FLOAT
+phv00278178.v1	pht002239.v4	Subject_Phenotypes	TLCpp_low_flag	encoded value	TLCpp_low_flag	STRING
+phv00278179.v1	pht002239.v4	Subject_Phenotypes	NewGOLD_SGRQ	string	NewGOLD_SGRQ	STRING
+phv00357182.v1	pht007609.v1	Subject_Phenotypes	SUBJECT_ID	string	SUBJECT_ID	STRING
+phv00357183.v1	pht007609.v1	Subject_Phenotypes	AFFECTION_STATUS	string	AFFECTION_STATUS	STRING
+phv00357184.v1	pht007609.v1	Subject_Phenotypes	SEX	string	SEX	STRING
+phv00357185.v1	pht007609.v1	Subject_Phenotypes	AGE	integer	AGE	INTEGER
+phv00357186.v1	pht007609.v1	Subject_Phenotypes	RACE	string	RACE	STRING
+phv00357187.v1	pht007609.v1	Subject_Phenotypes	ETHNICITY	string	ETHNICITY	STRING
+phv00357188.v1	pht007609.v1	Subject_Phenotypes	STUDY	string	STUDY	STRING
+phv00408833.v1	pht006808.v1	Subject_Phenotypes	PersonID	string	PersonID	STRING
+phv00408834.v1	pht006808.v1	Subject_Phenotypes	Sex	string	Sex	STRING
+phv00408835.v1	pht006808.v1	Subject_Phenotypes	Reported_Ethnicity	string	Reported_Ethnicity	STRING
+phv00408836.v1	pht006808.v1	Subject_Phenotypes	Inferred_Ethnicity	string	Inferred_Ethnicity	STRING
+phv00409134.v1	pht009160.v1	Subject_Phenotypes	SUBJECT_ID	string	SUBJECT_ID	STRING
+phv00409135.v1	pht009160.v1	Subject_Phenotypes	sex	encoded value	sex	STRING
+phv00409136.v1	pht009160.v1	Subject_Phenotypes	age	integer, encoded value	age	STRING
+phv00409137.v1	pht009160.v1	Subject_Phenotypes	race	encoded value	race	STRING
+phv00409138.v1	pht009161.v1	Sample_Attributes	SAMPLE_ID	string	SAMPLE_ID	STRING
+phv00409139.v1	pht009161.v1	Sample_Attributes	BODY_SITE	string	BODY_SITE	STRING
+phv00409140.v1	pht009161.v1	Sample_Attributes	ANALYTE_TYPE	encoded values	ANALYTE_TYPE	STRING
+phv00409141.v1	pht009161.v1	Sample_Attributes	HISTOLOGICAL_TYPE	string	HISTOLOGICAL_TYPE	STRING
+phv00409142.v1	pht009161.v1	Sample_Attributes	IS_TUMOR	encoded values	IS_TUMOR	STRING
+phv00409143.v1	pht009161.v1	Sample_Attributes	CORRESPONDING_ORGANOID	string	CORRESPONDING_ORGANOID	STRING

@@ -1,0 +1,9 @@
+table_version_id	study_version_id	table_name
+pht001111.v4	phs000209.v13	AirNRExamMain
+pht002239.v4	phs000179.v6	Subject_Phenotypes
+pht002776.v2	phs000296.v5	Subject_Phenotypes
+pht002777.v2	phs000296.v5	Sample_Attributes
+pht006808.v1	phs001437.v1	Subject_Phenotypes
+pht007609.v1	phs001554.v1	Subject_Phenotypes
+pht009160.v1	phs001611.v1	Subject_Phenotypes
+pht009161.v1	phs001611.v1	Sample_Attributes
